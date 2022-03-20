@@ -24,23 +24,28 @@ const init = async function(){
   const scrapeMultipleProducts = async function (url, val) {
   if(!val)return; 
   try{
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(url);
-  const [el] = await page.$x(
-    `/html/body/div[1]/div[2]/div/div[1]/div/div/div[2]/div[${val}]`
-      );
-  const textValue = await el.getProperty('innerText');
-  if (!textValue === val)return; 
-  const rawText = await textValue.jsonValue();
-  const fixedText = await rawText.split('\n')
-  jobs.push({Title:fixedText[0], Company:fixedText[1], Location: fixedText[2], Field:fixedText[3]})
-  if(jobs.length >= 20) console.log(jobs)
+      const browser = await puppeteer.launch();
+      const page = await browser.newPage();
+      await page.goto(url);
+      const [el] = await page.$x(
+        `/html/body/div[1]/div[2]/div/div[1]/div/div/div[2]/div[${val}]`
+          );
+          const textValue = await el.getProperty('innerText');
+          if (!textValue === val)return; 
+          const rawText = await textValue.jsonValue();
+          const fixedText = await rawText.split('\n');
+          
+      const [href] = await page.$x(`/html/body/div[1]/div[2]/div/div[1]/div/div/div[2]/div[${val}]/article/div[2]/h2/a`);
+      const hrefValue = await href.getProperty('href');
+      const hrefRaw = await hrefValue.jsonValue();
+      jobs.push({Title:fixedText[0], Company:fixedText[1], Location: fixedText[2], Field:fixedText[3], Link:hrefRaw})
+    if(jobs.length >= 20) console.log(jobs)
     
 }
 catch(err){console.error(err)}
 };
-arr.forEach(e =>scrapeMultipleProducts(`https://www.monster.fi/tyopaikat?search=It`, e))
+arr.forEach(val =>scrapeMultipleProducts(`https://www.monster.fi/tyopaikat?search=It`, val))
 }
+
 
 init();
