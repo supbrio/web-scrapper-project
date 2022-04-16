@@ -66,5 +66,5 @@ scrapeAllJobData(
   `https://www.monster.fi/tyopaikat?search=Markkinointiassistentti`
 );
 
-// Running the script from command line with command "node monster.fi/src/script.js "
+// Running the script from command line with command "node monster.fi/src/script.js"
 // Once you see string "pagex ready in monster.fi/jobData/x" in terminal; the script has fetched all the job data from that page
