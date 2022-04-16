@@ -1,0 +1,52 @@
+Tuoteomistaja-sovelluskehittäjä 
+
+ Tuoteomistaja-sovelluskehittäjä päivittäistavarakaupan johtavalle noutoratkaisulle
+
+Haluaisitko mukavaan tiimiin toteuttamaan IoT-ratkaisuja kiinnostaville ja tunnetuille asiakkaille, liittämään esineitä ja asioita osaksi internetiä, aiheuttamaan merkittäviä energiansäästöjä, työskentelemään kohteissa, joista riittää kerrottavaa lastenlapsille?
+
+Core Factory on vuonna 2008 perustettu avoimeen IoT- ja smart building -teknologiaan erikoistunut laite- ja sovellusvalmistaja, joka on saavuttanut suosiota valtavirrasta poikkeavan hajautetun mallin ansiosta. Tuotteitamme käytetään mm. päivittäistavarakaupan noutopisteiden automaatisointiin, kylmäjärjestelmien omavalvontaan, energiankulutuksen optimointiin ja esitysjärjestelmien keskitettyyn hallintaan.
+
+Haemme tuoteomistajaa (product owner) erityisesti noutoratkaisuihin liittyville pilvipalveluillemme. Tehtäväsi on ymmärtää käyttäjätarpeet, suunnitella parannuksia tuotteisiin, sekä aikatauluttaa ja toteuttaa ne yhdessä oman tiimisi ja tarvittaessa muiden tiimien kanssa. Asiakastyössä tukenasi on myyntipäällikkö ja kehityksessä eri teknologioiden huippuosaajamme, mukaanlukien käyttöliittymägraafikko. Heihin pääset mahdollisuuksien mukaan tutustumaan jo rekrytointiprosessin aikana.
+
+Tarjoamme
+
+Monipuolisia ja kehittäviä työtehtäviä hyvässä porukassa, kasvavassa yrityksessä
+Hyvät mahdollisuudet vaikuttaa työsi sisältöön, käytettäviin teknologioihin, työvälineisiin ja työskentelytapaan itsenäisesti tai tiimissä
+Yhteisön jossa voit toteuttaa itseäsi ja jossa osaamistasi arvostetaan. Tehtäväkenttäsi laajuus ja työnjako sovitaan kiinnostuksesi mukaan - Kaiken kokoisia saappaita on tarjolla.
+
+Menestyäksesi tarvitset
+
+Jonkin verran kokemusta front-kehtittämisestä Angular-kehyksessä
+Jonkin verran kokemusta jostakin Linux-käyttöjärjestelmästä
+Valmiuksia koordinoida n. 2-5 henkilön sovelluskehitysprojekteja
+Kiinnostusta kehittyä ja oppia
+
+Myös näitä kiinnostuksia voit päästä halutessasi hyödyntämään
+
+Käyttöliittymät, käytettävyys ja palvelumuotoilu
+Full Stack -kehitys
+Hajautetut ja sulautetut järjestelmät, elektroniikka, tietoverkot, palvelimet, esitystekniikka ja talotekniikka
+Kubernetes
+Tekoälykehitys
+C++ ja QT
+Myynti ja markkinointi
+
+Ilmoittaudu mukaan osoitteessa https://rekrymoottori.tau.fi/?form_id=17&ref=ml (päättyy 28.2.2022 klo 23.59)
+
+WWW-osoite: http://www.corefactory.com
+Yhteystiedot: Tinja Uotila 0503306128, tinja.uotila@corefactory.com
+Työpaikan osoite: 00380 HELSINKI
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 28.02.2022
+Ilmoitus jätetty: 22.02.2022
+TE-palvelujen ilmoitusnumero: 11243772
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin

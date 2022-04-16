@@ -1,0 +1,1127 @@
+(Senior) Software Designer, IoT 
+
+ Planmeca Oy is a global leader in many fields of healthcare technology, with products distributed in over 120 countries worldwide. Our product range covers digital dental units, CAD/CAM solutions, world-class 2D and 3D imaging devices and comprehensive software solutions. Headquartered in Helsinki, Finland, we are the largest privately owned company in the field of dental equipment and the parent company of Planmeca Group. With 4,500 employees worldwide, Planmeca Group companies achieved a combined turnover of EUR 1.1 billion in 2020.
+
+Come work with us on groundbreaking solutions that improve health care around the world! We are currently looking for software professionals for the position of
+
+(Senior) Software Designer, IoT
+
+as part of our IoT Software team.
+
+In your position you will be joining a team of talents creating an IoT platform for dental care devices. Depending on your background and interests you may focus on embedded or cloud development or both. We expect you to be extremely interested in collecting data from clinics and turning it into easier workflow for our customers or even better care for the patients.
+
+You will be defining and developing the product that will revolutionize the dental care business. Our vision is to connect all devices in the clinic to our system, including dental care units, X-ray devices, 3D printers etc. The collected data will serve the needs of technicians, dentists and clinic owners all around the world.
+
+We are a low-hierarchy product company, where you can have a genuine impact on the product and its technical design. To ensure a long product life cycle, we always work with a long-term strategy and to a high-quality standard. 
+
+The daily work also includes using tools and frameworks, such as Microsoft Azure, Yocto, Kubernetes, Terraform, Jenkins, Git and BitBucket.
+
+You can be sure your work makes a difference because you will be working with products that improve people’s health and wellbeing all over the world.
+
+What we expect
+If you are a creative software expert and a good team player looking for new challenges in a friendly working environment, this position could be just for you!
+Expected qualifications:
+- Several years’ professional experience programming in C/C++ or Go 
+- Experience in building networked/distributed software systems 
+- A suitable degree, such as an MSc or a degree in engineering
+- Teamwork skills and a genuine interest in collaborating both with and within teams
+
+Preferred experience in some of the following areas:
+- Building IoT systems
+- Cloud back-end development (Microsoft Azure)
+- Web/Networking protocols and technologies
+- Go
+- Yocto
+- Using/scripting Linux in embedded environments
+- Cyber security
+- Data analytics
+- Agile software development and CI
+
+What we offer
+At Planmeca, you will have the opportunity to work with the latest technology and improve your knowledge and skills in a good team. We offer a permanent position in an industry-leading family business that is known for its agile product development and innovative solutions. We are a global frontrunner in health technology passionately committed to R&D – both today and tomorrow. Come build the future with us!
+
+Find out more about our solutions on our website at planmeca.com and check out how we do things around here on our Instagram account instagram.com/planmeca_official. 
+
+For more information, please contact Mr Sakari Kettunen (Product Development Director, Software), sakari.kettunen (a) planmeca.com.
+
+Please submit your application and CV with a salary request by 15 May 2022. Note that applications will be reviewed on a rolling basis – do not hesitate to apply!
+
+ 
+
+Hae paikkaa
+Tallenna suosikkeihin
+AWS IoT Gateway Engineer 
+
+ Role: AWS IoT Gateway Engineer 
+
+Location: Espoo, Keilaniemi  
+
+ Are you  familiar with IoT technologies and looking for something exciting and meaningful?  Do you want to shape the future of SMART buildings that improve people's wellbeing?   
+
+ Great! Here at Helvar we are international leaders in lighting intelligence, we create people-centric products and solutions that save energy and improve the comfort of people. We offer an international Agile R &D business unit and a diverse working culture where your wellbeing is at the heart of everything we do.   
+
+ 
+
+If you’re  looking for a place to learn, grow and develop, while maintaining a healthy work-life balance, then Helvar could be for you . 
+
+ 
+
+Purpose of the Job 
+
+Working as a member of our Cloud Solutions team alongside our product design and architect leads, your role will be to help evolve our SMART building Solution and to bring it in line with our new system architecture.  
+
+As a senior member of the Cloud Team, you will mentor junior engineers and also be responsible for driving the agile development of the IoT Gateway products.
+
+Skills Needed: 
+
+Good experience with AWS IoT Greengrass  
+Experience with open-source containerization platforms such as Docker   
+Ideally experience with one or more of the following programming languages C++, Node JS, Python 
+Some experience with MQTT 
+Ideally, experience with Linux based Operating systems  
+Some experience with IOT device Security  
+Some experience or understanding of Networking Concepts  
+Excellent English communication and someone who enjoys collaborating within a team  
+Ideally, some prior experience mentoring more junior level Engineers  
+Ideally - 3 / 4 years experience in this field   
+
+Nice to Have  
+
+Some experience with BLE (Bluetooth low energy) 
+
+ 
+
+Why Helvar; Our Promise:   
+
+"Here you feel appreciated and valued, you are not just a number." - Helvar Employee   
+
+ At Helvar, we promise you conditions that foster your personal growth and help you achieve your full potential! We dare to claim ourselves as experts in innovation (with 100 years experience), and we work in a friendly, easy-going atmosphere, with a focus on improving your wellbeing.  
+
+Here are some examples of our promise to you coming alive:  
+
+ Bi-weekly Knowledge Sharing sessions – bring a topic of your interest area and let others fall in love too  
+A company program boosting and rewarding our Inventions culture (we also have a very special mug available for great inventors 
+Plenty of learning content available and dedicated time for you to invest in your own  self-development  
+Weekly “morning flow” sessions to get your morning started with high energy  
+“Fun Squad” hosting local wellbeing and social/sporting events   
+Bike benefit – why not use your commuting time for your own benefit  
+Hybrid and flexible ways of working; we value that you have priorities outside of work too  
+International & diverse teams across  Finland,  the UK,  Sweden  , and beyond 
+
+ 
+
+Apply to join our team of talented and passionate experts!   
+
+ If you’d like to be a part of the Helvar family, please apply for this role via our Helvar Careers site at helvar.com/careers/. Feel free to also get in touch with our Talent Acquisition Partner, Ben Fryer ben.fryer@helvar.com who will get in touch with you shortly.  
+
+ 
+
+ Helvar is an international SMART lighting controls technology company specialising in intelligent and energy-saving solutions.  Helvar lighting control solutions and luminaire components help to create smart environments built for the future, using information, and working seamlessly with other systems. With a vast range of projects spanning from hospitals, schools, workplaces to cruise ships and Istanbul’s 3rd new airport (the largest in the world), Helvar designs open and flexible solutions for lighting across a range of applications. With 100 years of expertise, Helvar serves its customers locally with offices in Finland, UK and Sweden and via our global network of partners in over 50 countries.   
+
+ Learn about us here: https://www.youtube.com/watch?v=OBnAysiDojU 
+
+Hae paikkaa
+Tallenna suosikkeihin
+Solution Test Engineer 
+
+ Helvar - Solution Test Engineer - Make an impact!   
+
+Espoo, Keilaniemi   
+
+Are you a Solution Test Engineer looking for something exciting and meaningful? Do you want to shape the future of SMART buildings that improve people's wellbeing?   
+
+Great! Well here at Helvar, we are an international company that is at the forefront of lighting controls technology innovation. We create people centric products and solutions that save energy and improve the comfort of people.  We offer an international Agile R&D business unit and a diverse working culture where your wellbeing is at the heart of everything we do.   
+
+So, if you are you a test engineer and are looking for a place to learn, grow and develop, while maintaining a healthy work life balance, then Helvar could be for you    
+
+How you can Make an impact with us! 
+
+You will be working on product development projects by designing and executing test cases for solutions made of a combination of hardware and software products. In doing so you will be contributing towards the improvement of testing capabilities and increase the automatization level in system testing at Helvar.  
+
+Your key accountability is to be the owner of the end-to-end testing for a lighting control solution, whilst executing aspects of it, as part of Operational Excellence, including manual solution testing and system testing regression that you will maintain and improve by considering new test scenarios and designing test cases for new features. 
+
+Your main tasks and responsibilities:  
+
+Implementing tests according to business requirements and development epics 
+Creation and maintenance of test environments with software and hardware  
+Contributing to the overall verification and validation of the system including documentation  
+Owning the end-to-end test execution for a lighting control solution 
+Understanding the system level behaviour and ensuring this is fully verified and documented 
+Supporting your development team colleagues to maintain and improve quality 
+Be a contributor to the quality of Helvar products and processes 
+
+"I have the possibility to work with different tools and technologies - I get to try a lot of different skills and learn a lot - there is constantly new things and a future orientation of products and vision." - Helvar Employee   
+
+ What you can add to our fantastic team 
+
+Significant experience in a system testing role, with a practical knowledge of release testing end to end solutions.  
+Experience of planning and executing tests from business requirements and epic definition.  
+Experience of defining system test approaches incorporating software and electronics.  
+Experience of working with an agile development team to support and improve testing and quality on an ongoing basis. 
+Experience of test automation frameworks e.g. Robot Framework, Pytest 
+Experience of working with test management software such as Xray for Jira 
+Experience of delivering IoT products to market.  
+Some knowledge of DALI, Bluetooth, Zigbee or other communication standards.  
+An inquisitive nature, high attention to detail and excellent communication skills.  
+A good work ethic and an eagerness to learn. Tolerance towards ambiguity. 
+
+ 
+
+"It’s quite nice here as I get a lot of independence.  I get a lot of trust, no one is spoon feeding me tasks and there is no micromanaging, - and it’s been like that since day one. The team I work with help me with balancing tasks" - Helvar Employee  
+
+Why Helvar; Our Promise:  
+
+"Here you feel appreciated and valued, you are not just a number. It comes down to the people." - Helvar Employee   
+
+At Helvar, we promise you conditions that foster your personal growth and help you achieve your full potential! We dare to claim ourselves as experts in innovation (with 100 years experience), and we work in a friendly, easy-going atmosphere, with a focus on improving your wellbeing.   
+
+Here are some examples of our promise to you coming alive:  
+
+Bi-weekly Knowledge Sharing sessions – bring a topic of your interest area and let others fall in love too  
+A company program boosting and rewarding our Inventions culture (we also have a very special mug available for great inventors  )  
+Plenty of learning content available and dedicated time for you to invest on your own self development  
+Weekly “morning flow” sessions to get your morning started with high energy  
+“Fun Squad” hosting local wellbeing and social/sporting events   
+Bike benefit – why not use your commuting time for your own benefit  
+Hybrid and flexible ways of working; we value that you have priorities outside of work too  
+International & diverse teams across Finland, the UK, Sweden and beyond    
+
+Apply to join our team of talented and passionate experts!   
+
+  If you’d like to be a part of the Helvar family, please apply for this role via our Helvar Careers site at helvar.com/careers/. Feel free to also get in touch with our Talent Acquisition Partner, Ben Fryer ben.fryer@helvar.com who will get in touch with you shortly.  
+
+  Helvar is an international SMART lighting controls technology company specialising in intelligent and energy-saving solutions.  Helvar lighting control solutions and luminaire components help to create smart environments built for the future, using information, and working seamlessly with other systems. With a vast range of projects spanning from hospitals, schools, workplaces to cruise ships and Istanbul’s 3rd new airport (the largest in the world), Helvar designs open and flexible solutions for lighting across a range of applications. With 100 years of expertise, Helvar serves its customers locally with offices in Finland, UK and Sweden and via our global network of partners in over 50 countries.   
+
+  
+
+Learn about us here: https://www.youtube.com/watch?v=OBnAysiDojU   
+
+Hae paikkaa
+Tallenna suosikkeihin
+Front-End Software Developer 
+
+ About Leanheat by Danfoss
+
+Leanheat by Danfoss is a technology company whose artificial intelligence based IoT solution monitors, controls and optimizes the indoor temperature and humidity of district heated buildings. Our solution improves the energy efficiency of properties, increases the operational efficiency of district heating companies and creates a healthier indoor climate for residents. Currently, Leanheat has installed in 170,000 apartments around the world. We are rapidly expanding our business internationally and currently operate in Finland, Denmark, China, Sweden, Norway, Poland and Germany. The Denmark-based Danfoss is our strategic partner since 2016, and today Leanheat is part of the Danfoss Group.
+
+For more information about Leanheat, please check: Leanheat – Energy-efficient control and maintenance of real estate with artificial intelligence
+
+For more information about Leanheat employer brand, please check: Danfoss Leanheat® Building Employer Branding
+
+Job Responsibilities
+
+Leanheat is now looking for a Front-End Software Developer to join our Development team in the Leanheat Building solution (www.leanheat.fi). The position is located in our brand-new office in Helsinki, Finland, but we are open to remote work arrangements as well. We offer you a chance to apply your programming skills to directly reduce the environmental load caused by building heating. We are looking for a Front-End Software Developer to help us mainly with the user interface design and development of the Leanheat system there is developed in React. As for backend we use variety of technologies such as Clojure, PostgreSQL, AWS cloud infrastructure and IoT sensors.
+
+We offer
+
+A chance to work on something meaningful: you’ll be directly able to contribute to the reduction of load on the environment caused by building heating
+A work community of about 70 people (and growing) consisting of professionals from various fields (building, energy, software engineering, data science, sales, ..) formed into teams that collaborate closely,  who are not only driven to make great results but to make the company a great place to work
+Plenty of freedom with the responsibility that comes along: choose your tools, when and where you work from
+The usual benefits: free breakfast, lunch vouchers, sports/culture/massage vouchers, great medical insurance
+New and unused office, due to the pandemic, designed exactly to our needs 
+An office right next to the Ilmala station 
+
+Background & Skills
+
+We hope for
+
+Minimum 3 years of work experience in software development
+Strong development experience with modern (ES6+) JavaScript, React and its ecosystem
+Knowledge about modern web technologies
+Experience in unit testing with Jest
+Love to practice functional programming with JavaScript
+Experience using, designing, and building REST APIs
+Capability to work both autonomously and as a part of a team
+Strong communication skills
+
+We also value
+
+Experience with some of the following: DevOps in general, AWS, Docker, Jenkins, Ansible, monitoring solutions
+Experience with relational databases and SQL, especially PostgreSQL
+Experience in Clojure 
+
+This is an opportunity to see your code quickly in action in controlling the heating of thousands of buildings; This is an opportunity that you can enjoy our flexible working locations and hours, as well as the autonomy in influencing your way of working; This is an opportunity where you can apply and learn about advanced methodology in the district heating field; work in a seasoned R&D crew and learn from them. For further information about this position, please contact Jimmi Wolff, Senior Director Software Development at jwolff@danfoss.com.
+
+Danfoss – Engineering Tomorrow
+
+At Danfoss, we are engineering solutions that allow the world to use resources in smarter ways – driving the sustainable transformation of tomorrow. No transformation has ever been started without a group of passionate, dedicated and empowered people. We believe that innovation and great results are driven by the right mix of people with diverse backgrounds, personalities, skills, and perspectives, reflecting the world in which we do business. To make sure the mix of people works, we strive to create an inclusive work environment where people of all backgrounds are treated equally, respected, and valued for who they are. It is a strong priority within Danfoss to improve the health, working environment and safety of our employees.
+
+Following our founder’s mindset ‘action speaks louder than words’, we set ourselves ambitious targets to protect the environment by embarking on a plan to become CO2 neutral latest by 2030.
+
+Danfoss is an EO employer and VEVRAA Federal Contractor. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected category.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Senior Software Developer 
+
+ About Leanheat by Danfoss
+
+Leanheat by Danfoss is a technology company whose artificial intelligence based IoT solution monitors, controls and optimizes the indoor temperature and humidity of district heated buildings. Our solution improves the energy efficiency of properties, increases the operational efficiency of district heating companies and creates a healthier indoor climate for residents. Currently, Leanheat is installed in 170,000 apartments around the world. We are rapidly expanding our business internationally and currently operate in Finland, Denmark, China, Sweden, Norway, Poland andGermany. The Denmark-based Danfoss is our strategic partner since 2016, and today Leanheat is part of the Danfoss Group.
+
+Leanheat is now looking for a Senior Software developer to join our Development team in the Leanheat Building solution (www.leanheat.fi). The position is located in our brand-new office in Helsinki, Finland, but we are open to remote work arrangements as well. We offer you a chance to apply your programming skills to directly reduce the environmental load caused by building heating.
+
+We are looking for an expirenced senior software developer to help us with the development, operations and scaling of the Leanheat system. As a part of the R&D team you’ll be working with a variety of technologies such as Clojure, PostgreSQL, AWS cloud infrastructure, IoT sensors on the backend and with JavaScript / React on the frontend.
+
+Job Responsibilities
+
+We offer
+
+a chance to work on something meaningful: you’ll be directly able to contribute to the reduction of load on the environment caused by building heating
+a work community of about 70 people (and growing) consisting of professionals from various fields (building, energy, software engineering, data science, sales, ..) formed into teams that collaborate closely,  who are not only driven to make great results but to make the company a great place to work
+plenty of freedom with the responsibility that comes along: choose your tools, when and where you work from
+the usual benefits: free breakfast, lunch vouchers, sports/culture/massage vouchers, great medical insurance
+New and unused office, due to the pandemic, designed exactly to our needs
+An office right next to the Ilmala station
+
+Background & Skills
+
+We hope for
+
+Proven experience in building systems with Clojure
+Minimum 5 years of work experience in software development
+Deeper than superficial understanding of relational databases and SQL, especially PostgreSQL
+Experience using, designing, and building REST APIs
+Capability to work both autonomously and as a part of a team
+Strong communication skills
+
+We also value
+
+Experience provisioning and managing infrastructure on AWS, especially using Terraform
+React / front-end development skills
+
+We offer you an opportunity to see your code quickly in action in controlling the heating of thousands  of buildings. Enjoy our flexible working locations and hours, as well as the autonomy in influencing  your way of working. Apply and learn about advanced methodology in the district heating field.
+
+Work in a seasoned R&D crew and learn from them. For further information about this position, please contact Jimmi Wolff, Senior Director Software Development at jwolff@danfoss.com. We don´t accept applications via email.
+
+Danfoss – Engineering Tomorrow
+
+At Danfoss, we are engineering solutions that allow the world to use resources in smarter ways – driving the sustainable transformation of tomorrow. No transformation has ever been started without a group of passionate, dedicated and empowered people. We believe that innovation and great results are driven by the right mix of people with diverse backgrounds, personalities, skills, and perspectives, reflecting the world in which we do business. To make sure the mix of people works, we strive to create an inclusive work environment where people of all backgrounds are treated equally, respected, and valued for who they are. It is a strong priority within Danfoss to improve the health, working environment and safety of our employees.
+
+Following our founder’s mindset ‘action speaks louder than words’, we set ourselves ambitious targets to protect the environment by embarking on a plan to become CO2 neutral latest by 2030.
+
+Danfoss is an EO employer and VEVRAA Federal Contractor. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected category.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Markkinointikoordinaattori, Signify Finland Oy (Vantaa/ Hybrid) 
+
+ Oletko kiinnostunut työskentelemään markkinoinnin tehtävissä kansainvälisessä yrityksessä? Asiakasyrityksemme Signify Finland Oy etsii nyt tiimiinsä markkinointikoordinaattoria vastaamaan kampanjoista ja digimarkkinoinnista heidän omaan 2 vuoden trainee ohjelmaansa, jonka jälkeen mahdollisuus edetä vaativampiin rooleihin yrityksen sisällä. Mikäli sinulla on kiinnostusta ja osaamista markkinoinnista ja sen perusperiaatteista, joko koulun tai työkokemuksen kautta ja haluat työskennellä osana kansainvälistä yritystä, niin lue lisää alta ja hae paikkaa jo tänään!
+
+Kuvaus
+
+Signify Finland Oy on entinen Philips Lightning ja yritys tarjoaa valaistusratkaisuja maailmanlaajuisesti. Signify (entinen Philips Lighting) on valaistusalan globaali markkinajohtaja, jonka tuotebrändinä toimii edelleen Philips. Tässä työtehtävässä pääset alan näköalapaikallen kahden vuoden trainee-positiossa, jonka aikana sinusta kehittyy markkinoinnin ammattilainen ja voit edetä urallasi yrityksen sisällä vaativampiin rooleihin. Tulet toimimaan osana kansainvälistä Nordic-tiimiä ja kollegasi työskentelevät Suomen lisäksi muissa pohjoismaissa.
+
+#
+
+#
+
+Tarjoamme:
+
+•   Hyvän urapolun kansainvälisessä yrityksessä ja mahdollisuuden edetä kehitystehtäviin
+•   2 vuoden laadukkaan trainee ohjelman ja kattavan perehdytyksen työtehtäviin
+•   Loistavat työsuhde-edut
+•   Kannustavan tiimin tuen
+•   Mahdollisuuden hybridityöhön ja joustavat työajat
+
+Työtehtävät
+
+•   Digitaalisten markkinointikanavien käytön tehostaminen ja näkyvyyden lisääminen eri kanavissa
+•   Jälleenmyyjien web-sivuille materiaalin tuottaminen ja näkyvyyden kehittäminen, sekä markkinointikampanjoiden toteutus
+•   Asiakaskirjeiden toteutuksen koordinointi ja sisällön tuottaminen
+•   Erilaisten markkinoinnin aktiviteettien ideointi ja toteutus
+
+Etsimämme henkilö on
+
+•   Tehtävään soveltuva korkeakoulututkinto tai loppuvaiheen opinnot
+•   Hyvät suulliset ja kirjalliset kommunikointitaidot suomeksi ja englanniksi
+•   Jonkin verran aiempaa työkokemusta esimerkiksi. toimistoassistentin tai markkinointiassistentin työtehtävistä
+•   Tuntemuksen digitaalisen markkinoinnin ja hakusanaoptimoinnin työkaluista
+
+Eduksi katsomme:
+
+•   Osaamisen kuvan- ja videonkäsittelyn ohjelmista (esim. Adobe InDesign, AfterEffects jne)
+•   Osaamista hakukone optimoinnin ja markkinointianalytiikan työkaluista (Google Analytics jne.)
+
+Etsimämme henkilö on:
+
+•   Proaktiivinen
+•   Idearikas
+•   Rohkea kokeilemaan
+•   Hyvä kommunikoimaan
+
+Muuta tietoa
+
+•   Aloitus: Sopimuksen mukaan
+•   Työaika: 37,5 h/ vko
+•   Palkka: 2800
+•   Kesto: 2 vuoden määräaikainen trainee ohjelma, jonka jälkeen mahdollisuus työllistyä vakituiseen työsuhteeseen
+•   Sijainti: Teknobulevardi 3, 01530 Vantaa
+
+Yhteystiedot: Tästä rekrytointiprosessista vastaa Academic Work asiakasyrityksensä Signify Finland Oy puolesta ja kaikki positioon liittyvät tiedustelut tulee lähettää Academic Workille.
+
+Käymme hakijoita jatkuvasti läpi ja jos olemme jo edenneet haastatteluvaiheeseen, saattaa ilmoitus poistua sivuiltamme ennen kuin rekrytointiprosessi on saatu päätökseen.
+
+Infoa asiakkaasta
+
+Signify Finland Oy Signify on maailman johtava ammattilaisille ja kuluttajille tarkoitetun sekä IoT-ratkaisuihin perustuvan valaistuksen asiantuntija. Energiatehokkaat valaistustuotteet, järjestelmät ja palvelut auttavat yrityksen asiakkaita nauttimaan ylivoimaisesta valon laadusta sekä tekevät ihmisten elämästä turvallisempaa ja mukavampaa. Yrityksistä tulee tuottavampia ja kaupungeista eloisampia. Signify on hiilineutraali yritys ja panostaa kaikessa tekemisessään vihreisiin arvoihin ja kestävään kehitykseen. Yrityksellä on toimintaa yli 70 maassa.
+
+Kysyttävää? info@academicwork.fi, Ilmoitusnumero: 15073104
+
+Hae paikkaa
+Tallenna suosikkeihin
+Prosessoijaksi Okmeticille 
+
+ Oletko etsimässä uutta suuntaa työurallesi ja olisit kiinnostunut teknologiateollisuuden tarjoamista työmahdollisuuksista? Okmeticilla kaivataan piinkovia prosessoijia vakituisiin työsuhteisiin Vantaalle. Oletko sinä yksi heistä?
+
+Okmeticilla on investoitu Vantaan tehtaan laajennukseen ja he kaipaavat uusia prosessoijia koulutettavaksi puolijohdeteknologian ammattilaisiksi. Rekrytointia hoitaa Barona, mutta työsuhde solmitaan suoraan Okmeticin kanssa. Okmetic tarjoaa sinulle vakituisen työsuhteen, joten edellytämme sinulta mahdollisuutta sitoutua töihin pidemmäksikin aikaa. Tutustu Okmeticilla työskentelevien työntekijöiden uratarinoihin tarkemmin tästä: https://www.okmetic.com/fi/tyopaikat/uratarinat
+
+Prosessoijana työtehtäväsi koostuvat monipuolisista ja vaihtelevista prosessitöistä tuotannon eri vaiheissa. Työskentelet modernissa tehtaassa muun muassa tuotantoprosessin ohjauksessa, automaatiolaitteiden ja -robottien operoinnissa sekä laadunvalvonnassa varmistaen, että asiakkaille toimitettavat piikiekot täyttävät korkeat laatukriteerit. Osa työskentelystä tapahtuu siisteissä puhdastiloissa. Tuotannossa työskennellään 12 tunnin työvuoroissa, jossa kierto on kaksi päivävuoroa - yksi vapaa - kaksi yövuoroa - viisi vapaata.
+
+Toivomme hakijalta aikaisempaa kokemusta tuotantotöistä sekä kokemus vuorotyöstä katsotaan eduksi, Okmeticin kattavan perehdytysohjelman avulla koulutamme sinut työtehtäviisi. Prosessoijan työssä tarvitaan hyviä tietoteknisiä taitoja, sillä käytettävät laitteistot sisältävät tietotekniikkaa ja automaatiota. Toivomme sinulta nopeaa oppimiskykyä, huolellista työotetta sekä tarkkaa ohjeiden noudattamista työssä, sillä lopputuotteiden korkea laatu on meille tärkeää. Arvostamme myös joustavuutta, yhteistyökykyä ja halua oman ammattitaidon kehittämiseen.
+
+Tarjoamme sinulle mielenkiintoisen ja monipuolisen työn menestyvässä ja turvallisessa yrityksessä, jolla on erittäin positiiviset tulevaisuuden näkymät. Okmeticilla on vahva tilauskanta sekä käynnissä oleva tehtaan laajennusinvestointi. Tarjoamme kaikille työntekijöillemme vakituisen työsuhteen, hyvät liikunta- ja ruokailuedut sekä mahdollisuuden jatkuvasti kehittää omaa osaamistaan haastavan työn ja erilaisten koulutusten avulla. Tehtävässä noudatetaan teknologiateollisuuden työehtosopimuksen mukaista palkkausta.
+
+Palkka muodostuu Teknologiateollisuuden TES:n taulukkopalkan mukaisesti tehtävän vaativuuden (TVR), henkilökohtaisen suoriutumisen (HKO) ja vuorotyölisien perusteella. Okmeticilla on käytössä myös tuotantolisä, jota maksetaan tuotannollisten tavoitteiden toteutumisen perusteella.
+
+Mikäli kiinnostuit tehtävästä, jätäthän hakemuksesi meille mahdollisimman pikaisesti, sillä paikat täytetään heti sopivien henkilöiden löydyttyä. Poikkeustilanteen takia toteutamme kaikki haastattelut turvallisesti ja helposti videohaastatteluina. Rekrytointiprosessimme etenevät siis normaalisti. Lisätietoja tehtävästä antaa Baronan Topi Peltoluhta topi.peltoluhta@barona.fi
+
+Hae paikkaa viimeistään 30.04.2022 mennessä.
+
+Lisätietoja tehtävästä: topi.peltoluhta@barona.fi, 050 354 6065
+
+Okmetic Oy
+
+Okmetic on maailman seitsemänneksi suurin piikiekkovalmistaja. Yhtiö toimittaa asiakaskohtaisesti räätälöityjä korkean lisäarvon piikiekkoja antureiden sekä erillispuolijohteiden ja analogiapiirien valmistukseen. Okmeticin asiakkaiden valmistamat tuotteet päätyvät lukuisiin meitä ympäröiviin loppusovelluksiin. Niitä ovat esimerkiksi älypuhelimet, kannettavat laitteet, autoelektroniikka, teollisuuden prosessikontrolloinnin ja lääketieteen sovellukset, Internet of Things (IoT) sekä erilaiset tehonsyötön ja hyötysuhteiden parantamiseen liittyvät ratkaisut.
+
+Rekrytointia hoitaa Barona
+
+Barona tarjoaa sinulle työtehtäviä niin pienissä kuin suurissakin suomalaisissa ja kansainvälisissä teollisuusyrityksissä. Työllistämme vuosittain tuhansia osaajia eri teollisuuden aloille. Kauttamme pääset matalan kynnyksen töistä aina vaativiin asiantuntijatehtäviin. Voit tehdä meillä töitä hetken, viipyä vuosia tai työskennellä keikkaluontoisesti – tuemme sinua urasi eri käänteissä. Rekrytointitoimeksiantojemme kautta voit työllistyä myös suoraan asiakasyrityksiimme. Haemme jatkuvasti uusia osaajia, joissa yhdistyy osaaminen, halu kehittyä sekä myönteinen asenne työtä kohtaan. Liity siis rohkeasti joukkoomme!
+
+Barona auttaa sinua rakentamaan työelämästä itsesi näköistä. Tuemme sinua kaikissa urasi eri käänteissä, Suomessa ja kansainvälisesti.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Solution Test Engineer - Product Development 
+
+ Helvar - Solution Test Engineer - Make an impact!   
+
+Espoo, Keilaniemi   
+
+Are you a Solution Test Engineer looking for something exciting and meaningful? Do you want to shape the future of SMART buildings that improve people's wellbeing?   
+
+Great! Well here at Helvar, we are an international company that is at the forefront of lighting controls technology innovation. We create people centric products and solutions that save energy and improve the comfort of people.  We offer an international Agile R&D business unit and a diverse working culture where your wellbeing is at the heart of everything we do.   
+
+So, if you are you a test engineer and are looking for a place to learn, grow and develop, while maintaining a healthy work life balance, then Helvar could be for you    
+
+How you can Make an impact with us! 
+
+You will be working on product development projects by designing and executing test cases for solutions made of a combination of hardware and software products. In doing so you will be contributing towards the improvement of testing capabilities and increase the automatization level in system testing at Helvar.  
+
+Your key accountability is to be the owner of the end-to-end testing for a lighting control solution, whilst executing aspects of it, as part of Operational Excellence, including manual solution testing and system testing regression that you will maintain and improve by considering new test scenarios and designing test cases for new features. 
+
+Your main tasks and responsibilities:  
+
+Implementing tests according to business requirements and development epics 
+Creation and maintenance of test environments with software and hardware  
+Contributing to the overall verification and validation of the system including documentation  
+Owning the end-to-end test execution for a lighting control solution 
+Understanding the system level behaviour and ensuring this is fully verified and documented 
+Supporting your development team colleagues to maintain and improve quality 
+Be a contributor to the quality of Helvar products and processes 
+
+"I have the possibility to work with different tools and technologies - I get to try a lot of different skills and learn a lot - there is constantly new things and a future orientation of products and vision." - Helvar Employee   
+
+ What you can add to our fantastic team 
+
+Significant experience in a system testing role, with a practical knowledge of release testing end to end solutions.  
+Experience of planning and executing tests from business requirements and epic definition.  
+Experience of defining system test approaches incorporating software and electronics.  
+Experience of working with an agile development team to support and improve testing and quality on an ongoing basis. 
+Experience of test automation frameworks e.g. Robot Framework, Pytest 
+Experience of working with test management software such as Xray for Jira 
+Experience of delivering IoT products to market.  
+Some knowledge of DALI, Bluetooth, Zigbee or other communication standards.  
+An inquisitive nature, high attention to detail and excellent communication skills.  
+A good work ethic and an eagerness to learn. Tolerance towards ambiguity. 
+
+ 
+
+"It’s quite nice here as I get a lot of independence.  I get a lot of trust, no one is spoon feeding me tasks and there is no micromanaging, - and it’s been like that since day one. The team I work with help me with balancing tasks" - Helvar Employee  
+
+Why Helvar; Our Promise:  
+
+"Here you feel appreciated and valued, you are not just a number. It comes down to the people." - Helvar Employee   
+
+At Helvar, we promise you conditions that foster your personal growth and help you achieve your full potential! We dare to claim ourselves as experts in innovation (with 100 years experience), and we work in a friendly, easy-going atmosphere, with a focus on improving your wellbeing.   
+
+Here are some examples of our promise to you coming alive:  
+
+Bi-weekly internal hackathons to let you improve the company on an ongoing basis  
+Bi-weekly Knowledge Sharing sessions – bring a topic of your interest area and let others fall in love too  
+A company program boosting and rewarding our Inventions culture (we also have a very special mug available for great inventors  )  
+Plenty of learning content available and dedicated time for you to invest on your own self development  
+Weekly “morning flow” sessions to get your morning started with high energy  
+“Fun Squad” hosting local wellbeing and social/sporting events   
+Bike benefit – why not use your commuting time for your own benefit  
+Hybrid and flexible ways of working; we value that you have priorities outside of work too  
+International & diverse teams across Finland, the UK, Sweden and beyond    
+
+Interview Process  
+
+20-minute Screening call with our Talent Acquisition Partner   
+1-hour conversation with a senior member of the team / HR   
+Possible assessment   
+1-hour final conversation with our manager / HR   
+
+Apply to join our team of talented and passionate experts!   
+
+  
+
+If you’d like to be a part of the Helvar family, please apply for this role via our Helvar Careers site at helvar.com/careers/. Feel free to also get in touch with our Talent Acquisition Partner, Ben Fryer ben.fryer@helvar.com who will get in touch with you shortly.  
+
+  
+
+Helvar is an international SMART lighting controls technology company specialising in intelligent and energy-saving solutions.  Helvar lighting control solutions and luminaire components help to create smart environments built for the future, using information, and working seamlessly with other systems. With a vast range of projects spanning from hospitals, schools, workplaces to cruise ships and Istanbul’s 3rd new airport (the largest in the world), Helvar designs open and flexible solutions for lighting across a range of applications. With 100 years of expertise, Helvar serves its customers locally with offices in Finland, UK and Sweden and via our global network of partners in over 50 countries.   
+
+  
+
+Learn about us here: https://www.youtube.com/watch?v=OBnAysiDojU   
+
+Hae paikkaa
+Tallenna suosikkeihin
+Project Manager 
+
+ Role: Project Manager 
+
+Location: Espoo, Finand
+
+This is an opportunity to join our team as a Project Manager with an international company that is at the forefront of lighting controls technology innovation. You will focus on managing integration and dependencies with other areas whilst the execution is happening in agile teams with backlog and release plans. The role is suitable for a candidate coming from a product creation background and requires commercial experience with product development where software is a major component also including the integration with embedded hardware and the alignment of production aspects to secure the ramp-up of the solution. Responsibilities include ensuring the overall program is on track with communicated timelines, coordinate with several internal functions and external stakeholders as necessary. The role is part of Operational Excellence and will work alongside product management on a day to day basis
+
+What you will do as our Project Manager: 
+
+Own the solution schedule in product development according to the scope agreed
+Facilitate projects and scrums synchronisation across cloud, wireless and embedded teams
+Attend increment planning to ensure solution needs are captured
+Attend portfolio planning to contribute and understand future business needs for the solution
+Act as the escalation path for scrum masters
+Track program risks to resolution
+Ensure defects are triaged and resolved according to identified severity
+Work alongside the test lead and solution test engineer to ensure end-to-end testing is executed
+Ensure the tollgate milestones are planned and delivered for major NPIs
+Manage pilots together with technical support and product management
+Ensure program communications is actively pursued across the teams and stakeholders
+Define and calculate key metrics with operational excellence
+Support leadership to track budget, resource allocation and releases
+Produce status reports to stakeholders on a weekly and monthly basis
+
+What experience you'll bring to the team: 
+
+Hands-on product development in a small medium engineering organisation delivering IoT products and services
+Knowledge of Agile delivery methodologies delivering projects in a product creation fast-paced environment
+Understanding of hardware and software integration aspect
+Experience using Jira, Confluence, Slack and Office365
+An understanding of modern software architecture and development concepts such as microservices, DevOps, and CI/CD
+A delivery focussed agile advocate, able to adapt frameworks for new projects and share knowledge and understanding without being dogmatic
+Possess very strong verbal and written communication skills
+A good work ethic and an eagerness to learn. Tolerance towards ambiguity
+
+About our team
+
+Our mission in Product Creation is to be a forerunner in our industry and we are constantly enhancing our capabilities in designing. Operational Excellence will contribute with thought leadership, teamwork and problem solving that results in continuous improvement throughout the organization by focusing on the needs of the customer, discipline in execution, and streamlining existing activities in the process to create value.
+
+Why Helvar; Our Promise:   
+
+"Here you feel appreciated and valued, you are not just a number." - Helvar Employee   
+
+ At Helvar, we promise you conditions that foster your personal growth and help you achieve your full potential! We dare to claim ourselves as experts in innovation (with 100 years experience), and we work in a friendly, easy-going atmosphere, with a focus on improving your wellbeing.  
+
+Here are some examples of our promise to you coming alive:  
+
+ Bi-weekly Knowledge Sharing sessions – bring a topic of your interest area and let others fall in love too  
+A company program boosting and rewarding our Inventions culture (we also have a very special mug available for great inventors 
+Plenty of learning content available and dedicated time for you to invest in your own  self-development  
+Weekly “morning flow” sessions to get your morning started with high energy  
+“Fun Squad” hosting local wellbeing and social/sporting events   
+Bike benefit – why not use your commuting time for your own benefit  
+Hybrid and flexible ways of working; we value that you have priorities outside of work too  
+International & diverse teams across  Finland,  the UK,  Sweden  , and beyond 
+
+ Apply to join our team of talented and passionate experts!   
+
+ If you’d like to be a part of the Helvar family, please apply for this role via our Helvar Careers site at helvar.com/careers/. Feel free to also get in touch with our Talent Acquisition Partner, Ben Fryer ben.fryer@helvar.com who will get in touch with you shortly.  
+
+ Helvar is an international SMART lighting controls technology company specialising in intelligent and energy-saving solutions.  Helvar lighting control solutions and luminaire components help to create smart environments built for the future, using information, and working seamlessly with other systems. With a vast range of projects spanning from hospitals, schools, workplaces to cruise ships and Istanbul’s 3rd new airport (the largest in the world), Helvar designs open and flexible solutions for lighting across a range of applications. With 100 years of expertise, Helvar serves its customers locally with offices in Finland, UK and Sweden and via our global network of partners in over 50 countries.   
+
+ Learn about us here: https://www.youtube.com/watch?v=OBnAysiDojU 
+
+ 
+
+Hae paikkaa
+Tallenna suosikkeihin
+Prosessoija 
+
+ Suomalainen korkean teknologian yritys Okmetic Oy etsii laajenevaan tuotantoonsa uusia prosessoijia Okmeticin Vantaan tehtaalle. Tehtävissä pääset valmistamaan asiakkaiden tarpeiden mukaisesti räätälöityjä, erinomaisten laatuvaatimusten täyttämiä piikiekkoja puolijohdeteollisuuteen. Adecco toimii rekrytoinnissa Okmeticin rekrytointikumppanina ja valitut henkilöt työllistyvät suoraan Okmeticin omiksi työntekijöiksi.
+
+Tarjottavat tehtävät ovat vakituisia ja kokoaikaisia. Töitä tehdään keskeytymättömässä 3-vuorossa 12h -työvuoromallin mukaisesti: kaksi aamuvuoroa, yksi vapaa, kaksi yövuoroa ja viisi vapaata.
+
+Okmeticin tuotannossa on useita eri vaiheita, joten jokaiselle löytyy varmasti juuri sinun taidoillesi ja kiinnostuksillesi sopiva tehtävä. Työtehtävänäsi voi olla esim. piikiekkoja tekevien laitteiden operointi, kiekkojen sahaus, kiillottaminen/puhdistaminen ja laadunvalvonta. Tuotantotiloja on myös monenlaisia aina konepajaympäristöstä korkean siisteyden puhdastiloihin.
+
+Voit tutustua tuotannon tehtäviin tarkemmin ja Okmeticilla työskentelevien uratarinoihin tästä linkistä https://www.youtube.com/watch?v=-NHPgJNs1w8
+
+Tehtävissä menestyäksesi sinulta tulee löytyä oma-aloitteisuutta, huolellisuutta, tarkkuutta, vastuuntuntoa sekä kykyä tehdä työtä järjestelmällisesti ja suunnitelmallisesti. Toivomme sinulta aiempaa kokemusta tuotantotyöstä. Kokemus vuorotyöstä katsotaan eduksi.
+
+Mikäli kiinnostuit Okmeticin tarjoamista töistä ja haluat osaksi kasvavaa sekä menestyvää Suomalaista korkean teknologian yritystä toimialalle, jonka kasvulle ei näy loppua, niin laita hakemuksesi heti tulemaan. Valitut henkilöt pääsevät nauttimaan Okmeticin tarjoamista kattavista koulutuksista ja henkilöstöeduista.
+
+Lisätietoja tehtävästä antaa Adeccon Veikko Salmi tai sähköpostitse veikko.salmi@adecco.fi.
+
+Okmetic on maailman seitsemänneksi suurin piikiekkovalmistaja. Yhtiö toimittaa asiakaskohtaisesti räätälöityjä korkean lisäarvon piikiekkoja antureiden sekä erillispuolijohteiden ja analogiapiirien valmistukseen. Okmeticin asiakkaiden valmistamat tuotteet päätyvät lukuisiin meitä ympäröiviin loppusovelluksiin. Niitä ovat esimerkiksi älypuhelimet, kannettavat laitteet, autoelektroniikka, teollisuuden prosessikontrolloinnin ja lääketieteen sovellukset, Internet of Things (IoT) sekä erilaiset tehonsyötön ja hyötysuhteiden parantamiseen liittyvät ratkaisut
+
+Lisätietoja tehtävästä antaa: Veikko Salmi, veikko.salmi@adecco.fi
+
+Hae paikkaa
+Tallenna suosikkeihin
+Application/Software Engineer 
+
+ Confidex designs and manufactures high-performing Smart Tickets for Smart Cities and wireless identification products – NFC, RFID and Bluetooth – for linking assets in business-critical processes. Our products are the key enablers in many Internet-of-Things (IoT) solutions and public transportation ticketing. For example, major automotive manufacturers, like Volvo and Daimler, rely on Confidex solutions in process automation, and over 100 cities use Confidex smart-ticket products in their public transportation systems, e.g. in Dubai, Vancouver and Hong Kong. See more success stories at https://www.confidex.com/success-stories.
+
+Confidex headquarters in Tampere, Finland is also the home of Confidex R&D. Our other offices are located in France, Netherlands, USA and China. Read more about Confidex at https://www.confidex.com.
+
+To strengthen the Smart Mobility business line, we are looking for an
+
+Application/Software Engineer for Smart Tickets Manufacturing
+
+As an Application Engineer, you will be a member of our Smart Ticketing team, located in Tampere. You will interact closely with our Product Managers and Engineers, Software Developers, as well as the manufacturing team in the factory. Our working environment is open, supportive and customer focused, including a good sense of humor combined with a disciplined way of working to ensure product precision.
+
+As an Application Engineer, your responsibilities will include managing the production software setups and configurations to ensure the software availability on time for the smart ticket production. You design, parametrize, code, manage, and test the ticket personalization software according to internal and customer ticket specifications and ticketing system definitions. You support product managers with the product specifications and production teams in software related questions, and prepare samples for customer validations.
+
+To succeed in this position, you should have a technical degree in computer science, information technology, or similar. Ideally, you have 1-4 years prior working experience from application engineering or SW development, and you are familiar with working on product specifications and existing code. We appreciate basic knowledge in digital electronics, RFID technology, security algorithms, and smart card related experience. As well, working experience in manufacturing process software development and understanding the product development lifecycle is valued. Ideally, you have been working with C#, Visual basic, and/or Python development environments. However, more important than your specific expertise is that you are willing and able to learn what you don’t know. Confidex being an international company, it is critical that you have solid English skills and can communicate effectively in a multicultural environment.
+
+As a person, you should be eager to learn new technologies and skills in application engineering and develop yourself. We expect you to be pedantic, analytical and a systematic team player with proactive working style capable of completing tasks from start to finish independently, even though you don’t need to be driving the conversation nor to possess the most talkative personality.
+
+We offer you a possibility to grow into an application/software expert in the field of Smart Tickets and Cards for Automated Fare Collection Systems. We invest in training and are willing to support you in your growth. Confidex work environment is relaxed and open. Join the steadily growing business and start building digitalized experiences with Confidex. Take advantage of this exciting opportunity and send your application as soon as possible!
+
+To apply for this position, please send your application and CV with salary request to terhi.marttinen@hrpoint.fi. The position will be filled as soon as a suitable applicant is found.
+
+Please submit your application by the end of April, 2022.
+
+If you feel you need more information, please email terhi.marttinen@hrpoint.fi.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Sales Manager, Yepzon Oy 
+
+ Are you an active and solution oriented B2B sales professional with at least 3-5 years of experience? Our client Yepzon is looking for a Sales Manager in safety and/or logistics solution sales. Yepzon is an end-to-end IoT solution provider specializing in real time data acquisition, communication and situational awareness visualization with data for customers business critical purposes. If you are interested in joining a team of skilled colleagues and working in a global environment, please read more below!
+
+Kuvaus
+
+In this role you will be active at B2B sales. The position is based in Tampere or Helsinki, with flexible ways of working according to needs of team and business. Your clients are mainly in Finland and rest of North-Europe, so you are ready to travel as needed.
+
+Työtehtävät
+
+In this position you will be responsible direct end-user solution sales, technology partnership project sales and to some extent also distribution channels. You are active with agreed existing customers and continuously increase the number of new clients. At your work, you will identify customer and end-user with needs matching Yepzon offering. Thanks to your active approach you can crystallize solutions supporting value creation to these customers and lifecycle value capture to Yepzon.
+
+Etsimämme henkilö on
+
+•   3-5 years of experience in B2B, projects or other technical solution sales and taking care of customer relations.
+•   Great communication skills in English. Intermediate level in Finnish. Swedish is considered as an advantage.
+•   Willingness to travel, mainly in Finland but also in the rest of North-Europe.
+
+Experience from technology sales and industrial operations is seen beneficial for this position.
+
+As a person you are:
+
+•   An independent and active sales professional
+•   An ambitious person, used to operate with logistics operation, sourcing and IT decision makers
+•   Persistent and self-driven even when facing challenges
+
+Other information
+
+•   Start: According to contract
+•   Work extent: Permanent
+•   Location: Tampere or Helsinki, with flexible ways of working
+
+This recruitment process is handled by Academic Work and it is our clients wish that all questions regarding the position is directed to Academic Work.
+
+Our selection process is continuous and the advert may close before the recruitment process is completed if we have moved forward to the screening or interview phase.
+
+Infoa asiakkaasta
+
+Yepzon provides additional earnings, savings and improved sustainability to the clientele in three segments being logistics, technology partnership and personal safety. Value is created with end-to-end ecosystem including with real time data collection, 4G LTE/5G connectivity, APIs to customers systems together with easy to use mobile App and web based user interfaces. In 2013 founded company has a team in Finland and subsidiaries with local partners in US, UK and India. In 2018 the company launched first industrial location tracker for sensitive cargo and since then Yepzon has created product and service portfolio for industrial and logistic end-user of extreme ambient and operational conditions.
+
+Kysyttävää? info@academicwork.fi, Ilmoitusnumero: 15070070
+
+Hae paikkaa
+Tallenna suosikkeihin
+Alanvaihtajille mukavaa myyntityötä Helsingin Sanomien parissa, Torrevieja 
+
+ 
+Haemme Helsingin Sanomien kasvavaan tiimiimme, Espanjan Torreviejaan työtovereita. Keski-ikäiset, kolmekymppiset tai kovemmankin kokemuksen kansalaiset huomio!  
+
+Tässä työssä sinulle on tarjolla  
+
+Johtavan sanomalehden maine ja mielikuvat, sekä laadukkaat tuotteet  
+Siisti toimistotyö ja säännölliset työajat  
+Työ, johon emme vaadi aiempaa kokemusta tai koulutusta  
+Viihtyisät työskentelytilat hyvällä sijainnilla ja kannustava työyhteisö 
+Kiinteä kuukausipalkka ja tulospohjainen suorituspalkkio. Palkkataso on paikalliseen Espanjan tasoon ja elinkustannuksiin nähden hyvä 
+
+Työsi kuvaus 
+
+Työssäsi otat yhteyttä aikaisempiin tilaajiin puhelimitse ja rohkaiset heitä uusimaan tilauksensa, sekä hankit myös kokonaan uusia asiakkaita. Onnistut työssäsi, jos sinulla on halua ja kykyä kommunikoida erilaisten ihmisten kanssa sekä taitoa kuunnella ja ymmärtää ihmisten tarpeita. Aikaisempaa kokemusta myyntityöstä ei vaadita. Meille tärkeää on avoin asenne ja joutuisa työote.  
+
+Työtä tehdään itsenäisesti ja yhdessä tiimin kanssa, välillä myös kilpailujen merkeissä. Työvälineet ovat nykyaikaiset ja työ alkaa kattavalla koulutusjaksolla.  
+
+Etsimme nyt oikeasti aikuisia kasvavaan tiimiimme! Tule mukaan luomaan sisältöä asiakkaiden elämään sekä huikeita lukuhetkiä Helsingin Sanomien parissa. Helsingin Sanomien juuret ja perinteet ovat saaneet alkunsa jo 1800- luvulla. Tule jatkamaan perinnettä koko Suomen tärkeimpien uutismedioiden myynnin parissa!   
+
+Työaika ja palkka 
+
+Työaika: 30 tuntia viikossa  
+
+Palkka: Sinulle kuuluu palkkamallimme mukainen kuukausipalkka sekä kannustava tulospalkkio. Meillä Helsingin Sanomien tiimissä myyntineuvottelija tienaa keskimäärin 1600 euroa kuukaudessa, mutta jopa pitkästi yli 2000€ kuukausiansiot ovat ahkeralla työllä mahdollisia.  
+
+Jos olet muuttamassa Suomesta Espanjaan, niin autamme sinua Espanjan viranomaisasioiden hoitamisessa, jotta saat tarvittavat luvat työskentelyyn. Tuemme lentokustannuksissa ja meiltä saat halutessasi käytännön vinkkejä esimerkiksi asunnon löytämiseen luotettavista lähteistä. 
+
+Rainmaker työnantajana
+
+Olemme Suomen suurin myynnin ja asiakaspalvelun kumppanuuksia rakentava yritys. Pidämme huolta asiakasyritystemme asiakkaista luomalla päivittäin maailmanluokan asiakaskohtaamisia tarjoamalla heille oikeita palveluja kasvotusten, puhelimitse, sähköpostitse ja chatilla. Liikevaihtomme vuonna 2020 on noin 70 miljoonaa euroa ja henkilöitä meillä on töissä 1800.
+
+Meitä rainmakerilaisia yhdistää positiivinen asenne ja halu kehittää itseämme. Teemme työtä sen eteen, että sinä saat työstäsi sen, mitä elämässäsi juuri nyt tarvitset. Meillä on tilaa yksilöllisille urapoluille asiakaskohtaamisten maailmassa ja edustamme sekä kotimaisia että kansainvälisiä huippubrändejä eri toimialoilta. Laadukkaat myynnilliset asiakaskohtaamiset ovat meille sydämen asia.
+
+ 
+
+Edut ja työntekijöiden hyvinvointi
+
+✅ Jaamme kuukausittain kaikille tiimeille tiimirahaa, jonka käytöstä tiimi päättää itse. Rahan voi käyttää vaikka tiimin kesken järjestettävään ravintolaillalliseen tai muuhun yhteiseen tekemiseen.
+
+✅ Maksamme myös aluekohtaista toimintarahaa kuukausitasolla, joka voidaan käyttää yhdessäoloon paikallisesti.
+
+✅ Valitsemme ja palkitsemme joka kuukausi sateentekijän työntekijöidemme joukosta.
+
+✅ Virkistykseksi toimistoillamme on tarjolla mm. hedelmiä
+
+
+
+
+Espanjan Torreviejassa olemme toimineet kolme vuotta.  
+
+Lue tästä lisää Rainmakerin Torreviejan toimipisteestä.
+
+Työpaikan haku onnistuu hakulinkin kautta ja toki voit myös olla suoraan yhteydessä suoraan Kirsiin WhatsAppin kautta tai soittamalla numeroon +358407147996. Voit olla yhteydessä myös sähköpostilla, kirsi.lemettinen@rainmaker.fi 
+
+Paikkakunta: Torrevieja, Espanja 
+
+Aloitus:  Kevät 2022
+
+Työaika: 30h/vko
+
+
+Palkka: 1000e/kk + provisio
+
+
+Hae paikkaa
+Asentaja radioverkkojen pariin Ouluun, Digita Oy 
+
+ Etsimme asiakkaallemme Digita Oy:lle asentajaa broadcasting-/telecom-tekniikoiden pariin Oulun asemalle. Työt alkavat pitkähkössä 5G tekniikkaan liittyvässä verkonrakennusprojektissa, jonka aikana työkohteet sijaitsevat koko Suomen alueella. Projektin aikana työskentely edellyttää arkisin valmiutta useiden vuorokausien yhtäjaksoiseen matkatyöhön. Tehtävään valittu henkilö työllistyy radioverkkoasiantuntijaksi toistaiseksi voimassa olevaan työsuhteeseen Digita Oy:n palvelukseen. Projektin päätyttyä työt jatkuvat radioverkkoasiantuntijan laajan tehtäväkirjon parissa Digitan Oulun asemalta käsin pääasiassa Pohjois-Pohjanmaan alueella.
+
+Radioverkkoasiantuntijana suoritat asennus-, huolto- ja viankorjaustöitä niin laitetiloissa kuin mastoissakin. Lisäksi dokumentoit työsi ja suoritat tarpeen tullen laitteiden käyttöönottotöitä tietokoneelta käsin. Työskentelyalueesi ulottuu niin sanotulta kotiasemaltasi käsin pääasiassa asemapaikkasi mukaiselle viankorjausalueelle, mutta tarvittaessa tuet työpanoksellasi projektiluontoisesti myös muita viankorjausalueita. Koska työ sisältää tehtäviä alkaen tietokoneelta ja jatkuen laitetilan kautta aina maston huipulle saakka, emme suinkaan oleta sinun osaavan kaikkea ennalta. Tarjoammekin sinulle kattavan perehdytyksen tehtäviisi. Näin ollen esimerkiksi mobiilitekniikoihin liittyviä asennustöitä tehneen hakijan ei ole syytä olla huolissaan siitä, jos työssä vastaan tulevat muut tekniikat eivät ole vielä osaamislistalla.
+
+Odotamme hakijalta:
+
+sähkö- tai tietoliikennealan peruskoulutusta tai em. alojen korkeakoulututkintoa
+aiempaa kokemusta mobiilitekniikoiden parista (aiempi kokemus suuri etu tehtävään haettaessa, mutta ei ehdoton vaatimus)
+perustyökalujen käyttötaitoa
+halukkuutta ja uskallusta työskennellä myös korkealla
+hyvää fyysistä kuntoa ja kiinnostusta ajoittain fyysisesti raskasta työtä kohtaan
+matkustusvalmiutta ja valmiutta myös päivystystöihin
+sujuvaa suomen kielen ja perustasoista englannin kielen taitoa
+tietokoneen peruskäyttötaitoja (mm. töiden dokumentointia silmällä pitäen)
+
+Eduksi katsomme lisäksi:
+
+kokemuksen TV- ja radioverkoista
+kokemuksen mastotöistä tai korkealla työskentelystä
+kokemuksen liikkuvasta työstä
+voimassa olevan mastopätevyyden
+voimassa olevat työturvallisuus-, sähkötyöturvallisuus-, tulityö- ja EA1-kortit
+
+Tarjoamme sinulle taatusti tekijäänsä haastavan työn, jossa niin tehtävien kirjo kuin maisemien vaihtuminen pitävät mielesi virkeinä. Digita on vastuullinen työnantaja sekä yksi Suomen innostavimmista yrityksistä: tuoreimman henkilöstökyselyn tulosten perusteella olemme saavuttaneet ”Suomen innostavimmat työpaikat 2021” -tunnustuksen. Koko Digitassa töitä tehdään yhdessä toisia tukien eikä yksin tarvitse jäädä. Vahvuuksiimme kuuluukin hyvä työilmapiiri ja yhteishenki sekä aito yhdessä tekemisen meininki! Töihin pääset kiinni kattavan perehdytyssuunnitelman avulla ja osaavien kollegoiden ohjaamana. Osaamistasi kehitetään työuran alusta saakka tarjoamalla koulutuksia ja tukemalla omaehtoista oppimista. Työt alkavat sopimuksen mukaan, halutessasi hyvinkin pian. Avoimen tehtävän palkkaus määräytyy Digitan työehtosopimuksen mukaan.
+
+Kiinnostuitko paikasta huipulla? Jätähän hakemuksesi viipymättä oheisen linkin kautta. Aloitamme hakemusten käsittelyn jo hakuaikana, ja avoin tehtävä täytetään heti sopivan henkilön löydyttyä.
+
+Jäikö jokin vielä askarruttamaan? Älä epäröi ottaa yhteyttä! Baronalla rekrytointia hoitaa Atte Murto-Koivisto, p. 044 347 0316, sähköposti: atte.murto-koivisto@barona.fi
+
+Tutustu radioverkkoasiantuntijan työpäivään tubettaja Jalmafin kanavalta osoitteessa:
+
+https://www.youtube.com/watch?v=zDLRR9AeRQM
+
+Olemme myös julkaisseet #Uratarinoita-videosarjaa, jossa digitalaiset kertovat työskentelystään Digitassa. Radioverkkoasiantuntija Jarnon uratarinaa pääset katsomaan tästä:
+
+https://www.youtube.com/watch?v=S83d9bRAxZ8
+
+Lisäksi Digitan Instagramissa on katsottavissa digitalaisten tarinoita heidän työpäivistään. Radioverkkoasiantuntija Tapanin työpäivään voit tutustua täällä:
+
+https://www.instagram.com/stories/highlights/17905202527787738/.
+
+Hae paikkaa viimeistään 26.04.2022 mennessä.
+
+Lisätietoja tehtävästä: atte.murto-koivisto@barona.fi, 044 347 0316
+
+Digita Oy
+
+Digita on digitaalisen infrastruktuurin ja palveluiden tarjoaja sekä maan suurin riippumaton tietoliikennemastojen omistaja. Turvaamme jokapäiväisten yhteyksien toimivuuden, sekä monimuotoisen viestinnän saatavuuden kaikille suomalalaisille ympäristöä kunnioittaen. Yhtiö omistaa ja operoi Suomen johtavaa valtakunnallista maanpäällistä televisio- ja radioverkkoa, toimii antenniverkon maksu-tv-operaattorina, sekä kehittää tulevaisuuden broadcasting-palveluja. Digitan tietoliikennepalveluita ovat privaattiverkot, sisäpeittoratkaisut, tietoliikenteen masto- ja kattopaikkojen hallintapalvelut sekä esineiden internet (IoT) ja konesalipalvelut. Palveluita tarjotaan mediayhtiöille, kuluttajilla, matkapuhelinoperaattoreille, teollisuudelle, infrastruktuuriyhtiöille sekä kiinteistöjen omistajille. Digitassa työskentelee valtakunnallisesti yli 200 alan osaajaa ja haluamme olla alamme paras työpaikka kaikille.
+
+Rekrytointia hoitaa Barona
+
+Barona tarjoaa sinulle työtehtäviä niin pienissä kuin suurissakin suomalaisissa ja kansainvälisissä teollisuusyrityksissä. Työllistämme vuosittain tuhansia osaajia eri teollisuuden aloille. Kauttamme pääset matalan kynnyksen töistä aina vaativiin asiantuntijatehtäviin. Voit tehdä meillä töitä hetken, viipyä vuosia tai työskennellä keikkaluontoisesti – tuemme sinua urasi eri käänteissä. Rekrytointitoimeksiantojemme kautta voit työllistyä myös suoraan asiakasyrityksiimme. Haemme jatkuvasti uusia osaajia, joissa yhdistyy osaaminen, halu kehittyä sekä myönteinen asenne työtä kohtaan. Liity siis rohkeasti joukkoomme!
+
+Barona auttaa sinua rakentamaan työelämästä itsesi näköistä. Tuemme sinua kaikissa urasi eri käänteissä, Suomessa ja kansainvälisesti.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Asentaja radioverkkojen pariin Turkuun, Digita Oy 
+
+ Etsimme asiakkaallemme Digita Oy:lle asentajaa mobiili- ja broadcast-tekniikoiden
+pariin Turun asemalle. Tehtävään valittu henkilö työllistyy radioverkkoasiantuntijaksi
+toistaiseksi voimassa olevaan työsuhteeseen Digita Oy:n palvelukseen. Turkuun
+rekrytoitava radioverkkoasiantuntija työskentelee painopisteisesti Varsinais-Suomen
+alueella, mutta työn arkeen mahtuu myös pidempiä siirtymiä erityisesti Satakunnan
+alueelle.
+
+Radioverkkoasiantuntijana suoritat asennus-, huolto- ja viankorjaustöitä niin laitetiloissa kuin mastoissakin. Lisäksi dokumentoit työsi ja suoritat tarpeen tullen laitteiden käyttöönottotöitä tietokoneelta käsin. Työskentelyalueesi ulottuu niin sanotulta kotiasemaltasi käsin pääasiassa asemapaikkasi mukaiselle viankorjausalueelle, mutta tarvittaessa tuet työpanoksellasi projektiluontoisesti myös muita viankorjausalueita. Koska työ sisältää tehtäviä alkaen tietokoneelta ja jatkuen laitetilan kautta aina maston huipulle saakka, emme suinkaan oleta sinun osaavan kaikkea ennalta. Tarjoammekin sinulle kattavan perehdytyksen tehtäviisi. Näin ollen esimerkiksi mobiilitekniikoihin liittyviä asennustöitä tehneen hakijan ei ole syytä olla huolissaan siitä, jos työssä vastaan tulevat muut tekniikat eivät ole vielä osaamislistalla.
+
+Odotamme hakijalta:
+
+sähkö- tai tietoliikennealan peruskoulutusta tai em. alojen korkeakoulututkintoa
+aiempaa kokemusta mobiilitekniikoiden parista (aiempi kokemus suuri etu tehtävään haettaessa, mutta ei ehdoton vaatimus)
+perustyökalujen käyttötaitoa
+halukkuutta ja uskallusta työskennellä myös korkealla
+hyvää fyysistä kuntoa ja kiinnostusta ajoittain fyysisesti raskasta työtä kohtaan
+matkustusvalmiutta ja valmiutta myös päivystystöihin
+sujuvaa suomen kielen ja perustasoista englannin kielen taitoa
+tietokoneen peruskäyttötaitoja (mm. töiden dokumentointia silmällä pitäen)
+
+Eduksi katsomme lisäksi:
+
+kokemuksen TV- ja radioverkoista
+kokemuksen mastotöistä tai korkealla työskentelystä
+kokemuksen liikkuvasta työstä
+voimassa olevan mastopätevyyden
+voimassa olevat työturvallisuus-, sähkötyöturvallisuus-, tulityö- ja EA1-kortit
+
+Tarjoamme sinulle taatusti tekijäänsä haastavan työn, jossa niin tehtävien kirjo kuin maisemien vaihtuminen pitävät mielesi virkeinä. Digita on vastuullinen työnantaja sekä yksi Suomen innostavimmista yrityksistä: tuoreimman henkilöstökyselyn tulosten perusteella olemme saavuttaneet ”Suomen innostavimmat työpaikat 2021” -tunnustuksen. Koko Digitassa töitä tehdään yhdessä toisia tukien eikä yksin tarvitse jäädä. Vahvuuksiimme kuuluukin hyvä työilmapiiri ja yhteishenki sekä aito yhdessä tekemisen meininki! Töihin pääset kiinni kattavan perehdytyssuunnitelman avulla ja osaavien kollegoiden ohjaamana. Osaamistasi kehitetään työuran alusta saakka tarjoamalla koulutuksia ja tukemalla omaehtoista oppimista. Työt alkavat sopimuksen mukaan, halutessasi hyvinkin pian. Avoimen tehtävän palkkaus määräytyy Digitan työehtosopimuksen mukaan.
+
+Kiinnostuitko paikasta huipulla? Jätähän hakemuksesi viipymättä oheisen linkin kautta. Aloitamme hakemusten käsittelyn jo hakuaikana, ja avoin tehtävä täytetään heti sopivan henkilön löydyttyä.
+
+Jäikö jokin vielä askarruttamaan? Älä epäröi ottaa yhteyttä! Baronalla rekrytointia hoitaa Atte Murto-Koivisto, p. 044 347 0316, sähköposti: atte.murto-koivisto@barona.fi
+
+Tutustu radioverkkoasiantuntijan työpäivään tubettaja Jalmafin kanavalta osoitteessa:
+
+https://www.youtube.com/watch?v=zDLRR9AeRQM
+
+Olemme myös julkaisseet #Uratarinoita-videosarjaa, jossa digitalaiset kertovat työskentelystään Digitassa. Radioverkkoasiantuntija Jarnon uratarinaa pääset katsomaan tästä:
+
+https://www.youtube.com/watch?v=S83d9bRAxZ8
+
+Lisäksi Digitan Instagramissa on katsottavissa digitalaisten tarinoita heidän työpäivistään. Radioverkkoasiantuntija Tapanin työpäivään voit tutustua täällä:
+
+https://www.instagram.com/stories/highlights/17905202527787738/.
+
+Hae paikkaa viimeistään 26.04.2022 mennessä.
+
+Lisätietoja tehtävästä: atte.murto-koivisto@barona.fi, 044 347 0316
+
+Digita Oy
+
+Digita on digitaalisen infrastruktuurin ja palveluiden tarjoaja sekä maan suurin riippumaton tietoliikennemastojen omistaja. Turvaamme jokapäiväisten yhteyksien toimivuuden, sekä monimuotoisen viestinnän saatavuuden kaikille suomalalaisille ympäristöä kunnioittaen. Yhtiö omistaa ja operoi Suomen johtavaa valtakunnallista maanpäällistä televisio- ja radioverkkoa, toimii antenniverkon maksu-tv-operaattorina, sekä kehittää tulevaisuuden broadcasting-palveluja. Digitan tietoliikennepalveluita ovat privaattiverkot, sisäpeittoratkaisut, tietoliikenteen masto- ja kattopaikkojen hallintapalvelut sekä esineiden internet (IoT) ja konesalipalvelut. Palveluita tarjotaan mediayhtiöille, kuluttajilla, matkapuhelinoperaattoreille, teollisuudelle, infrastruktuuriyhtiöille sekä kiinteistöjen omistajille. Digitassa työskentelee valtakunnallisesti yli 200 alan osaajaa ja haluamme olla alamme paras työpaikka kaikille.
+
+Rekrytointia hoitaa Barona
+
+Barona tarjoaa sinulle työtehtäviä niin pienissä kuin suurissakin suomalaisissa ja kansainvälisissä teollisuusyrityksissä. Työllistämme vuosittain tuhansia osaajia eri teollisuuden aloille. Kauttamme pääset matalan kynnyksen töistä aina vaativiin asiantuntijatehtäviin. Voit tehdä meillä töitä hetken, viipyä vuosia tai työskennellä keikkaluontoisesti – tuemme sinua urasi eri käänteissä. Rekrytointitoimeksiantojemme kautta voit työllistyä myös suoraan asiakasyrityksiimme. Haemme jatkuvasti uusia osaajia, joissa yhdistyy osaaminen, halu kehittyä sekä myönteinen asenne työtä kohtaan. Liity siis rohkeasti joukkoomme!
+
+Barona auttaa sinua rakentamaan työelämästä itsesi näköistä. Tuemme sinua kaikissa urasi eri käänteissä, Suomessa ja kansainvälisesti.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Solution Architect 
+
+ Etsimme vakituista ratkaisuarkkitehtia vahvistamaan pohjoismaista Business Technology -tiimiämme.
+
+St1:n visio on olla johtava CO2-hyvän energian valmistaja ja myyjä. Tavoitteenamme on kehittää ja kaupallistaa toimivia ja ympäristön kannalta kestäviä ratkaisuja sekä toimittaa näitä ratkaisuja asiakkaille kannattavasti. Digitaalisten ratkaisuiden rooli tässä kehityksessä ja laajemmin koko energiamurroksessa on keskeinen.
+
+Business Technology -tiimissä tavoitteenamme on suunnitella kestävää kokonaisarkkitehtuuria, jossa huomioidaan ihmiset, toimintatavat ja teknologiat, ja joka auttaa yritystä myös tulevissa muutoksissa. Ratkaisuarkkitehtina pääset suunnittelemaan St1:n nykyisen ja tulevan liiketoiminnan kannalta keskeisimpiä IT-ratkaisuita sekä halutessasi myös laajempia tavoitearkkitehtuurikokonaisuuksia. Tätä työtä varten käytössämme ovat tuoreimmat suunnittelutavat ja teknologiat, mutta roolissasi pääset halutessasi myös vaikuttamaan näihin.
+
+Valmiiden ohjelmistoratkaisuiden lisäksi hyödynnämme laajasti mikropalveluita osana kokonaisarkkitehtuuriamme. Mikropalvelut muodostavat liiketoimintaamme mallintavan palvelukerroksen, jonka päälle voimme ketterästi kehittää uusia loppukäyttäjäpalveluita kuten digitaaliset asiakaskanavamme sekä verkossa että mobiilissa. Uusien mikropalveluratkaisuiden suunnittelu strategisesti merkittäville liiketoiminta-alueille onkin yksi tehtävistäsi. Tässä työssä auttaa esimerkiksi API first- ja Domain-driven design -ajattelun, sekä Hexagonal-arkkitehtuurin ja SOLID-periaatteiden tunteminen.
+
+Uudet ratkaisumme toimivat jo sujuvasti monipilviympäristössä. Myös monet meidän ydinjärjestelmistämme kuten toiminnanohjaus (ERP) ja asiakkuudenhallinta (CRM) ovat pilvipohjaisia. Ne on integroitu osaksi isompaa digitaalista IT-ympäristöämme perinteisempien integraatioiden lisäksi kehittyneemmillä API- ja tapahtumapohjaisilla ratkaisuilla.
+
+Olemme tämän kokonaisuuden osalta vasta päässeet alkuun ja tarvitsemmekin sinun apuasi ja näkemystäsi matkan vauhdittamiseksi. Toivomme, että sinulla on jo kokemusta mikropalveluarkkitehtuurien suunnittelusta, pilvipalveluista ja -teknologioista, API-hallinnasta sekä erilaisista arkkitehtuurin suunnittelumalleista ja -periaatteista. Kaikki ohjelmistotuotannollinen osaaminen lasketaan vahvaksi eduksi.
+
+Olit sitten kokenut ratkaisuarkkitehti tai esimerkiksi ohjelmistokehityksen tehtävissä ansioitunut ohjelmistotuotannon ammattilainen, joka haluaa jatkossa suunnitella ratkaisuja yksittäisiä järjestelmiä laajemmissa kokonaisuuksissa, voit olla juuri etsimämme henkilö.
+
+Työnkuvaus
+Ratkaisuarkkitehtina pääset
+
+Hyödyntämään osaamistasi arkkitehtuurin suunnitteluperiaatteiden ja teknologioiden osalta, miettiessäsi käytännössä meidän liiketoimintatarpeidemme muuttamista IT-ratkaisuiksi.
+Työskentelemään sekä kokonaan uuden liiketoimintakehityksen parissa että myös nykyisten järjestelmien uusinta- ja yhtenäistämistarpeiden kanssa.
+Fasilitoimaan yhteistyötä erilaisten sidosryhmien välillä.
+Auttamaan projekteja löytämään oikeat IT-ratkaisut yhdessä muiden arkkitehtien ja toimittajien kehitystiimien kanssa.
+Auttamaan yritystasolla käytettävien uusien teknologioiden valinnoissa.
+Määrittämään ja viestimään parhaita käytäntöjä ja toimintatapoja.
+
+Olet vastuussa
+
+Liiketoimintatarpeiden ja vaatimusten ymmärtämisestä.
+Eri sidosryhmät ja kokonaisarkkitehtuurin tavoitteet tyydyttävien sekä liiketoiminta-arvoa tuottavien ratkaisujen ehdottamisesta ja suunnittelusta.
+Kehitysprojektien tukemisesta siten, että suunnitellut ratkaisut tulevat onnistuneesti toteutettua yli komponentti-, järjestelmä- ja teknologiarajojen.
+
+Avaintekijät onnistumiseen
+
+Olet aidosti innostunut IT-arkkitehtuurista ja siihen liittyvistä menetelmistä, viitekehyksistä ja periaatteista.
+Haluat ottaa vastuuta asioista, olet järjestelmällinen ja motivoitunut.
+Olet ratkaisukeskeinen ja sinulla on hyvät kommunikaatio- ja yhteistyötaidot sekä englanniksi että suomeksi.
+Sinulla on laaja tekninen ja teknologinen ymmärrys ja ennen kaikkea kiinnostus oppia lisää, mihin voi sisältyä esimerkiksi eri pilviympäristöt ja -teknologiat, mikropalvelut ja niihin liittyvät ohjelmointikielet ja -ympäristöt, web- ja mobiiliteknologiat, erilaiset SQL- ja NoSQL-tietokannat, muut tiedonhallintaratkaisut ja -teknologiat, API-gateway, iPaaS- ja ESB-ratkaisut, AI- ja ML-ratkaisut, Industrial IoT-teknologiat ja -ratkaisut tai DevSecOps-teknologiat ja -ratkaisut.
+
+Tarjoamme sinulle
+
+Ratkaisuarkkitehtina sinulla on mahdollisuus suunnitella St1:n liiketoiminnan kehittymisen kannalta merkittäviä IT-ratkaisuja ja nähdä suunnitelmiesi toteutuminen. Meillä jokainen yksilö on tärkeä ja pääsee mukaan yrityksen kannalta merkittäviin projekteihin.
+Käytännön oppia arkkitehtuuri- ja teknologiaratkaisuista eri liiketoiminta-alueille. Meillä työ ei käy tylsäksi, vaan kulman takana odottaa aina uusi liiketoimintatarve, teknologiaselvitys tai projekti, jossa voit auttaa ratkaisuarkkitehtuuritaidoillasi.
+Hyvät kehittymismahdollisuudet sekä IT-arkkitehtina että halutessasi myös laajemmin yrityksen tietohallinnon monipuolisissa tehtävissä.
+Pohjoismaisen työyhteisön ja mahdollisuuden työskennellä kansainvälisessä ympäristössä.
+
+Lisätietoja
+
+Paikka on vakituinen ja sijaitsee Helsingissä. Työ alkaa sopimuksen mukaan mutta toivomme, että haet tehtävää mahdollisimman pian sillä, käsittelemme hakemuksia jatkuvasti. Jos sinulla on kysymyksiä roolista tai rekrytointiprosessista, ole yhteydessä Pooliaan: Sanna Majava, sanna@poolia.fi / 020 7290 838 tai Janette Andersson, janette@poolia.fi / 020 7290 839.
+
+Meistä
+
+St1 on pohjoismainen energiakonserni, jonka visiona on olla johtava CO2-hyvän energian valmistaja ja myyjä. Konserni tutkii ja kehittää taloudellisesti kannattavia ja ympäristön kannalta kestäviä energiaratkaisuja. St1 keskittyy polttonesteiden markkinointiin, öljynjalostukseen sekä uusiutuvan energian ratkaisuihin, kuten jätepohjaisiin edistyneisiin etanolipolttonesteisiin ja teolliseen tuulivoimaan. Konsernilla on kaikkiaan 1250 St1- ja Shell-huoltoasemaa Suomessa, Ruotsissa ja Norjassa. St1:n pääkonttori on Helsingissä ja sen palveluksessa on n. 1200 henkilöä. www.st1.com
+
+Hae paikkaa
+Senior developer / architect 
+
+ Do you want a leading technical role in the development of the smart cities of the future?
+
+About the company
+
+Smartsky AS is a young, innovative and exciting tech start-up invested in the technological development of smart cities and communities. Since our establishment in 2020, we have achieved great results in a short time, securing various projects and funding. To date, we have 10 employees working in close collaboration with our Norwegian and Finnish tech partners actively developing tech solutions for smart cities.
+
+We are now implementing a large-scale national pilot project in partnership with Bodø municipality in Norway, which involves the development of two tech products 1) Smartsky - a platform that collects and structures data in a way that enables smart cities 2) Safeplan - an application that feeds critical data of properties and residents to emergency services during an emergency. To support us in this project, we’re looking for an inquisitive and innovative senior developer/architect willing to take on a leading role in tech development.
+
+As our lead in tech development, you will play a crucial role in developing tech products that will form the basis for our services for smart cities of the future. The ideal candidate will be comfortable working in an interdisciplinary team and with various stakeholders, including customers and external tech suppliers and developers. You must be able to identify technological opportunities while at the same time having a pragmatic eye for creating both short- and long-term prospects. You will be required to work in close collaboration with the company's management team, where you will be responsible for the technical aspects of the product. As our senior developer /architect, you will also be accountable for the decision-making of  the tech aspects of the project.
+
+Best of all - you get to  do this with a great degree of autonomy  while working  in close collaboration with a fantastic team  of competent colleagues!
+
+About you
+
+Experience with:
+
+Key roles in complex IT projects
+
+Previously worked with IT architecture and technology development
+
+Close collaboration with customers, stakeholders and external developers
+
+Skills highly desirable:
+
+Independent
+
+Innovative
+
+Driven by and thrives on responsibility
+
+Technology enthusiast with a good business sense 
+
+Good communication skills
+
+We are looking for someone who:
+
+Communicates well in Norwegian and/or English
+
+Has relevant experience as an architect or senior developer with a desire to take on more overall responsibility
+
+Has relevant education at college or university level, but the relevant experience can replace educational requirements
+
+Experience with public common components, map solutions and integrations, preferably from the municipal sector and/or IoT systems
+
+Proven track record in agile development and agile methods, SaaS and cloud solutions (preferably Azure)
+
+Has an overall technology strategic vision and has hands-on experience in all aspects of software development, including code design, code implementation/maintenance and testing
+
+We offer:
+
+Competent and pleasant colleagues!
+
+Opportunity to participate in developing and realizing the smart city solutions of the future
+
+The freedom to shape your position and everyday work
+
+Cooperation with leading Nordic technology companies
+
+Competitive conditions and co-operative program for employees
+
+ 
+
+Option to be based in  Lofoten, Bodø, Oslo or remote. Working hours are mainly daytime but must be flexible to meet clients' needs.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Full Stack Developer (React, TypeScript, Serverless) 
+
+ We are looking for web developers with interest and experience to develop with JavaScript (TypeScript) related technologies such as React and Node.js.
+
+If you want your work visible to everyone and be involved in the revolution of digital surfaces then you might be interested to join us based in the Helsinki area.
+
+About the role
+
+The selected person will join our development team that is building scalable microservices and user interfaces. Depending on your skillset and motivation we offer you interesting challenges in the frontend and backend development. You work closely with the product management, take ownership of your work and have the possibility to affect features and technology decisions.
+
+Requirements
+
+An excellent JavaScript and TypeScript experience. 
+
+Hands-on experience of at least NodeJS and React in web application development
+
+Experience of building web applications from scratch to production
+
+You have a motivation to improve your skills to become even better 
+
+You are a team player and enjoy working with the people
+
+Fluent communication in Finnish/English
+
+Not mandatory but something that we appreciate and you have possibility to learn
+
+AWS (Lambda, S3, DynamoDb, IoT and many other services)
+
+Serverless Framework
+
+Agile development methods
+
+DevOps, continuous integration and deployment
+
+You know how to work with some of these: Webpack, Babel, ESLint, ECMAScript, Jest, Cypress, Redux, Redux-saga, RxJs…
+
+What we offer for you
+
+Interesting challenges and possibility to keep up with the latest technologies
+
+Salary based on your skill level
+
+Competitive options package
+
+Your preferred working equipments
+
+Culture, sports and lunch benefits
+
+Cool office in Helsinki. (Includes sauna, gym and swimming pool)
+
+You can influence this list and help us to be the best employer
+
+Hae paikkaa
+Tallenna suosikkeihin
+Sales Manager Norway / Sweden 
+
+ Are you our sales manager for the Norwegian or Swedish market?
+
+At Woodsense, we are looking for a results-driven sales representative with excellent interpersonal skills to actively seek out and engage customer prospects in the (Swedish/Norwegian) construction industry.
+
+We are already established in Denmark, selling to some of the largest customers in the market. Now we’re looking for the right persons to build and develop a market for us in Norway/Sweden. 
+
+Responsibilities
+
+As our sales representative for the (Norwegian/Swedish) market, you will be responsible for expanding and establishing contact with the largest stakeholders in the construction industry.  ‍
+
+The Danish team at Woodsense acts as back office and you can expect to be an integral part of our team as a whole. We will make sure you are well-prepared with all the technical knowledge you will need, and guide you with the practicalities of the position. 
+
+In addition to being fluent in (Swedish/Norwegian), you should be comfortable communicating in English, as this is our go-to language for communication between us.
+
+Your tasks will include
+
+Adapting and executing our sales strategy to the Norwegian/Swedish market.
+
+Develop and maintain positive business and customer relationships.
+
+Coordinate sales effort with the Danish sales team.
+
+Selling directly to relevant construction projects.
+
+Resolve customer issues, in collaboration with the back office, by investigating problems, developing solutions and making recommendations to management.
+
+Recommend changes in product, service and policy by evaluating results and competitive developments.
+
+Potentially establishing sales channels through re-distributors of our product. ‍
+
+In the long term we expect the tasks to progress into further market expansion and sales team management.
+
+Who are you?
+
+To be successful in this position, you have a flair for sales and an existing network in the construction industry. It is an advantage if you are target driven with a proven track record in sales, as the position requires strategic knowledge on how to approach the local market.
+
+We primarily sell to strategic decision makers and partners, but you should preferably be able to work with sales on both construction sites as well as in executive corridors.
+
+Furthermore, it is an advantage if you …
+
+Have a technical understanding of construction.
+
+Are independent, structured and good with time management.
+
+Have a driver's license, as you can expect some transportation.
+
+Who are we?
+
+At Woodsense, we are working towards eliminating resource waste in the construction industry and promoting the use of timber in construction. We do this through the use of our IoT sensors which monitor the health of timber structures and materials with the aim of preventing damage and reducing the need to replace materials. 
+
+We currently have clients, projects and a growing network in both Denmark, Sweden and Norway. Now we need you to support our further growth in (Norway/Sweden).
+
+The construction industry is responsible for approximately 40% of the world’s CO2 emissions, so if you want to influence the green transition, Woodsense might be the right place for you! 
+
+As a sales representative at Woodsense, you become part of a small and ambitious team that believes work should be fun and flexible. While Woodsense is based in Copenhagen, we do not expect you to move. Preferably you are located in (Sweden/Norway), and we will do our part to make sure the Woodsense-spirit spreads to (Sweden/Norway).
+
+Work hours and salary
+
+The position of sales representative is a full-time position. In terms of salary, we are flexible offering different salary solutions depending on your preferences, such as a standard package of salary plus commission or more agency with less security but a bigger reward as we grow on the market. We’re looking to fill the position as fast as possible, but are willing to wait for the right candidate. 
+
+If you have questions about the position or the application process, you are welcome to reach out to our CCO, Thijs van Tilburg.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Pakkaamotyöntekijä Lillbackalle 
+
+ Haemme nyt asiakasyrityksillemme pakkaamotyöntekijää Kauhavalle. Työt alkavat huhtikuun aikana.
+
+Tehtävässä pääset tarkkuutta vaativaan pakkaustyöhön. Työtehtävät sisältävät työkalujen käsin tehtävää pakkausta, kirjausta, laaduntarkkailua ja huoltotoimenpiteitä. Tärkeintä työssä on laadun merkityksen huomioon ottaminen jokapäiväisessä työnteossa.
+
+Työt tapahtuvat joustavasti päivävuorossa.
+
+Jotta pysyt vauhdissa mukana, toivomme sinulta hyvää fyysistä kuntoa. Maratoneja ei tarvitse juosta, mutta liikkeessä pitää pysyä.
+
+SINULTA LÖYTYY
+
+Huolellinen ja vastuullinen tapa työskennellä
+Itsenäinen ja reipas asenne
+Järjestelmällisyyttä
+
+Eduksi katsomme aiemman kokemuksen pakkaustehtävistä ja teollisuuden tuotannon työtehtävistä. Trukinajotaidosta on myös etua.
+
+Rekrytointia hoitaa Barona ja työt alkavat heti sopivan henkilön löydyttyä. Valittu henkilö työllistyy Barona Teollisuus Oy:lle. Työsuhde solmitaan alkuun määräaikaisena, jonka jälkeen sinulla on mahdollisuus päästä asiakkaan kirjoille pitkään työsuhteeseen.
+
+Lisätietoja tehtävästä antaa Roope Takala Baronalta numerosta +358 50 573 5165 tai sähköpostitse osoitteesta roope.takala@barona.fi.
+
+Hae heti!
+
+Hae paikkaa viimeistään 17.04.2022 mennessä.
+
+Lisätietoja tehtävästä: roope.takala@barona.fi
+
+Lillbacka Powerco Oy (Powerpark)
+
+Lillbacka Powerco valmistaa maailman parhaita hydraulipuristimia, jotka ovat tunnettuja korkeasta laadustaan, tarkkuudestaan, kestävyydestään ja innovatiivisuudestaan. Jorma Lillbackan alun perin kehittämät puristimet suunnitellaan ja valmistetaan Alahärmässä suomalaisella ammattitaidolla ja ylpeydellä. Puristimien lisäksi Lillbacka Finn-Power tuoteperheeseen kuuluu muita letkuasennelmien valmistamiseen liittyviä laitteita, kuten katkaisuleikkureita, kuorimakoneita, merkkauslaitteita sekä putkivalmistuksessa käytettäviä laajennuskoneita. Maailman tarkimpia Lillbacka Finn-Power koneita ohjaa markkinoiden edistyneimmät digitaaliset ohjausjärjestelmät ja IoT-ratkaisut, jotka on kehitetty samalla intohimolla kuin kaikki Lillbacka Finn-Power tuotteet.
+
+Rekrytointia hoitaa Barona
+
+Barona tarjoaa sinulle työtehtäviä niin pienissä kuin suurissakin suomalaisissa ja kansainvälisissä teollisuusyrityksissä. Työllistämme vuosittain tuhansia osaajia eri teollisuuden aloille. Kauttamme pääset matalan kynnyksen töistä aina vaativiin asiantuntijatehtäviin. Voit tehdä meillä töitä hetken, viipyä vuosia tai työskennellä keikkaluontoisesti – tuemme sinua urasi eri käänteissä. Rekrytointitoimeksiantojemme kautta voit työllistyä myös suoraan asiakasyrityksiimme. Haemme jatkuvasti uusia osaajia, joissa yhdistyy osaaminen, halu kehittyä sekä myönteinen asenne työtä kohtaan. Liity siis rohkeasti joukkoomme!
+
+Barona auttaa sinua rakentamaan työelämästä itsesi näköistä. Tuemme sinua kaikissa urasi eri käänteissä, Suomessa ja kansainvälisesti.
+
+Hae paikkaa
+Tallenna suosikkeihin

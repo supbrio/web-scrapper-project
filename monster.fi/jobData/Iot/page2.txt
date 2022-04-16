@@ -1,0 +1,1240 @@
+Business Controller 
+
+ Asiakkaamme Small Data Garden Oy myy, suunnittelee, kehittää ja valmistaa IoT-palveluratkaisuja ja -laitteita kansainvälisesti. Heidän osaamisensa takaa oikeat ratkaisut laitteiden, sovellusten ja verkkoyhteyksien oikeaan käyttöön. Small Data Garden Oy:llä on yli 100 vuoden kokemus IoT -teknologiaratkaisujen suunnittelusta ja toteuttamisesta. Heillä on tavoitteena olla IoT-alan edelläkävijä, haastaja ja kehittäjä.
+
+Etsimme asiakkaallemme
+
+BUSINESS CONTROLLERIA Riihimäelle.
+
+Tämä työ tarjoaa sinulle eturivin paikan yrityksen kehityssuunnan määrittämisessä ja pääset tekemään yrityksen kannalta aidosti merkityksellistä työtä. Työnkuvasi on monipuolinen ja saat olla mukana kehittämässä ja tukemassa kasvavan ja menestyvän yrityksen IoT-liiketoimintaa. Työnkuvaasi kuuluvat mm. office managerin ja taloushallinnon tehtävät, sopimusten tekeminen, esitteiden ja tiedotteiden laatiminen, osto- ja myyntilaskuista huolehtiminen (kirjanpito on ulkoistettu), budjettien ja ennusteiden laatiminen, nykyhetken ja tulevaisuuden arvioiminen, investointien suunnittelu, kannattavuuden seuraaminen, palvelukonseptin kehittäminen, sekä myynti- ja markkinointitiimin tukitoimet.
+
+Koordinoit ja teet työtä yhdessä myyntitiimin ja muiden yksiköiden kanssa. Olet päämäärätietoinen sekä eteenpäin pyrkivä. Hahmotat isoja kokonaisuuksia ja olet aktiivinen tekijä. Pystyt luomaan pidemmän aikavälin suunnitelmia ja edistämään niitä kiireen keskellä. Olet tarkka, hallitset numerot ja omaat erinomaiset kirjalliset sekä viestinnälliset taidot. Positiivisuutesi ja energiasi tarttuu muihin. Nautit tiimissä toimimisesta ja ratkaisukeskeisestä työstä.
+
+Asiakkaamme toimii pääasiassa kiinteistöalalla, joten ymmärrys kiinteistökehityksestä ja -järjestelmistä katsotaan eduksi. Myös kokemus IoT:sta, pilvipalveluista sekä sensori- ja tietoverkoista katsotaan eduksi. Yrityksen keskeinen tavoite on tällä hetkellä hakea kasvua palveluratkaisuilla erityisesti Ruotista ja muualta Skandinaviasta. Asiakkaamme toimipaikka sijaitsee Riihimäellä ja työskentely tapahtuu heidän toimipaikassaan. Työt alkavat heti sopivan henkilön löydyttyä. Palkkaus sopimuksen mukaan.
+
+Edellytämme sinulta
+
+Kokemusta vastaavista tehtävistä
+Osaamista taloushallinnon tehtävistä
+Tehtävään soveltuvaa koulutusta (esim. taloushallinto tai yritystalous)
+Kykyä työskennellä itsenäisesti ja omatoimisesti
+Kykyä sopeutua muuttuviin tilanteisiin
+Erinomaista englannin kielen osaamista suullisesti ja kirjallisesti
+Erinomaista suomen kielen osaamista suullisesti ja kirjallisesti
+Erinomaista IT- ja viestintä taitoja
+
+Tarjoamme sinulle
+
+Haasteita ja mahdollisuuden kehittää itseäsi kasvavassa yrityksessä
+Ammattilaisten tuen ja hyvän perehdytyksen työhön
+Monipuolisen työnkuvan, jossa ei tule tylsää päivää
+Työpaikan arvostetussa yrityksessä
+Mahdollisesti unelmiesi työpaikan
+
+Arvostamme
+
+Kokemusta vientikaupasta, taloushallinnosta, yritystaloudesta ja kirjanpidosta
+Halua oppia uutta ja kehittää itseä
+Hyviä tiimityöaitoja
+Reipasta ja iloista työotetta
+Ruotsin kielen osaamista suullisesti ja kirjallisesti
+Tuntemusta kiinteistöhallinnasta, teknisistä palveluista, pilvipalveluista sekä sensori- ja tietoverkoista
+
+Kiinnostuitko?
+
+Asiakkaamme tarjoaa työsuhteen alkuun kattavan perehdytyksen. Työt alkavat heti sopivan henkilön löydyttyä. Palkkaus sopimuksen mukaan. Mikäli koet olevasi etsimämme luottotyyppi, täytä hakemus oheisen linkin kautta. Liitä mukaan vapaamuotoinen hakemuksesi sekä ansioluettelo.
+
+Lisätietoja tehtävästä voi tiedustella Valtti Henkilöstöratkaisuilta Elina Romppaselta p. 050 555 0366
+
+Lisätietoja
+
+Elina Romppanen
+HR-konsultti
+
+Valtti Henkilöstöratkaisut Oy Keskustori 1 A 2, 33100 Tampere
+050 555 0366 vaihde 010 320 3920
+elina@valttiratkaisut.fi www.valttiratkaisut.fi
+
+Yhteystiedot: Valtti Henkilöstöratkaisut Oy, Elina Romppanen, elina@valttiratkaisut.fi
+Työpaikan osoite: 11130 RIIHIMÄKI
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopivan henkilön löydyttyä
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 25.04.2022
+Ilmoitus jätetty: 06.04.2022
+TE-palvelujen ilmoitusnumero: 11334732
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Automation Engineer 
+
+ Samesor Oy is a Kuopio-based company that sells, designs, manufactures and supplies sheet metal production lines using roll forming technology. Most of the approximately 1000 lines manufactured so far have been exported to more than 60 countries around the world. All of this is made possible by a skilled work community of about 40 people.
+
+We are strengthening our automation team and we are now looking for an
+
+AUTOMATION ENGINEER
+
+for a permanent job in our company.
+
+You will be working as part of our automation team. Your responsibilities include production line control systems' development, commissioning, and customer support.
+
+The production lines manufactured by Samesor include both PLC (Siemens) and PC control elements. Your task will focus on the PC section. For this reason, it would be desirable for you to have capabilities also for PC programming (C ++, Visual Studio, C Sharp, etc.). We also value experience and enthusiasm to develop in IOT, motion control and CAD-CAM configurations.
+
+From your educational background, you can be either a machine automation engineer, an information technology engineer, or a graduate engineer. We are looking for a person who is interested in the above technologies, who has a passion for becoming a top expert in this field and who has the skills for this goal.
+
+We offer versatile work tasks and the opportunity to develop and advance your career to the best of your ability in a comfortable and competitive work environment.
+
+Work will begin as agreed and selection will be made as soon as a suitable person has been found.
+
+For further information, please contact Jarmo Airaksinen (+358 40 765 7880 / jarmo.airaksinen@samesor.fi)
+
+WWW-osoite: http://samesor.fi
+Yhteystiedot: Jarmo Airaksinen, 040-7657880, jarmo.airaksinen@samesor.fi
+Työpaikan osoite: Mastotie 1, 70461 KUOPIO
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 15.05.2022
+Jätä hakemus: Hakemukset ansioluetteloineen ja palkkatoiveineen sähköpostilla pasi.soininen@samesor.fi
+Ilmoitus jätetty: 06.04.2022
+TE-palvelujen ilmoitusnumero: 11333313
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Myynti-insinööri 
+
+ Tekninen projektiasiantuntija
+
+Tule rakentamaan kanssamme älykästä vesihuoltoa! Haemme nyt henkilöä vesihuollon etäluentajärjestelmien projekteihin ja teknisen tuen tehtäviin "Etelä-Suomeen".
+
+Meillä Effectio Oy:ssä pääset työskentelemään veden etälukuun liittyvien monipuolisten ja mielenkiintoisten työtehtävien parissa. Olemme vahvassa kasvussa oleva pienyritys, joten jokaisen työntekijän asenteella, osaamisella ja työpanoksella on suuri merkitys kokonaisuuteen. Tuomme maahan älykkäitä etäluettavia komposiittirungollisia vesimittareita ja asiakkaitamme ovat vesilaitokset, rakennusliikkeet ja asunto-osakeyhtiöt.
+
+Toimimme tiiviissä yhteistyössä toimittajiemme, jakelukanavien, asennusyhtiöiden sekä iot-verkko-operaattoreiden kanssa. Tarkoituksemme on mahdollistaa asiakkaillemme kynnyksetön siirtymä veden etäluennan pariin markkinoiden parhailla ratkaisuilla. Etsimme kasvua myös muilta iot-markkinoilta, joten tulevaisuuden työtehtäviä ajatellen pystymme varmasti tarjoamaan mielenkiintoisen työpaikan hyvässä tiimissä.
+
+Työtehtävät ja vastuualueet:
+
+-Teknisten asiakasprojektien tuki ja ongelmanratkaisutehtävät
+-Etäluettavien vesimittareiden toiminnan analysointi- ja korjaustehtävät
+-Huolto-/Asiakaskäynnit "Hangosta-Jyväskylään"
+-IoT tilien kautta tapahtuva laitekannan monitorointi ja päivitystehtävät
+-Tuoteuutuuksien testaus, pilotointi, esittely ja tarkastukset
+-Myynnin ja markkinoinnin kanssa sovitut tukitehtävät
+
+Toivomme sinulta:
+
+-Hyvää asennetta ja avointa mieltä uusien teknisten asioiden oppimiseen
+-Työhön soveltuvaa tarkkaavaisuutta, ongelmanratkaisu- ja vastuunkantokykyä
+-Asiakaslähtöistä ajattelutapaa / asiakaspalveluhenkisyyttä
+-Oma-aloitteisuutta ja kykyä oppia sekä kehittää toimintaa
+-Matkustusvalmiutta + B-ajokorttia
+-Halua ottaa asioista selvää ja kehittyä
+-Hyviä tietoteknisiä taitoja: Office 365 (Excel, Teams, Outlook)
+-Aikaisempi vesipuolen työkokemus ja IoT-laitteiden tuntemus katsotaan eduksi
+
+Tarjoamme sinulle:
+
+-Eturivin paikan veden etäluennan teknologiaosaamiseen
+-Osaavan työyhteisön tuen uuteen työhön perehdyttämisessä
+-Monimuotoisen asiakas- ja yhteistyökumppaniverkoston
+-Kilpailukykyisen palkan ja erittäin kattavat etuudet
+-Mahdollisuuden työskennellä kotoa
+
+Otatko haasteen vastaan?
+
+Lähetä hakemuksesi, CV ja palkkatoiveesi: tj Jaakko Latvala, jla@effectio.fi. puh. +358 50 400 9799. .
+
+Lisätietoja tehtävästä antaa Jaakko Latvala, jla@effectio.fi
+
+WWW-osoite: http://www.effectio.fi
+Yhteystiedot: Latvala Jaakko, Puh: 0504009799, 0504009799, jla@effectio.fi
+Työpaikan osoite: Työ useassa osoitteessa tai etätyö
+Palkkaus: sopimuksen mukaan
+Työ alkaa: tai sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 20.04.2022 klo 16:00
+Jätä hakemus: jla@effectio.fi
+Ilmoitus jätetty: 04.04.2022
+TE-palvelujen ilmoitusnumero: 11329948
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Engineer - Finland or Czechia 
+
+ Are you passionate about software development and embedded systems? Are you a quick learner well suited for an international work environment? Would you like to join our family of great minds?
+
+In this position, you will get a chance to work with interesting projects in an international environment. You can be based in one of our offices in Finland or Czechia, you choose.
+
+About us
+
+Huld is an internationally unique technology design house. We support our customers in designing and developing software applications such as control systems, desktop applications, test automation solutions and data processing systems. We provide services for leading companies in a variety of industries. We are looking for new Huldians to better respond to our growing customer project portfolio.
+
+About the open position
+
+To be eligible, you preferably have a B.Sc., M.Sc. or Ph.D. degree in, for example, computer science, automation, mathematics, physics or electronics. Our ideal candidate has a good understanding of embedded software development and relevant previous work experience. We use English as the working language with most of our customers.
+
+Apply for this position if you have:
+
+- B.Sc., M.Sc. or Ph.D. degree in suitable area.
+- 3-10 years of work experience in embedded software development and/or testing.
+- Understanding of embedded systems.
+- Good skills in C/C++. We especially appreciate experience of modern C++.
+- Experience of Python and other scripting languages.
+- Additional skills such as Embedded Linux, Qt, Robot Framework, are a bonus.
+- Experience in any of the following areas is an advantage: GNSS, autonomous systems, IoT, safety critical software development, algorithm development, scientific computing, data science, functional safety, HW design, power management.
+- Fluent English, preferably also Finnish.
+- Ambitious attitude.
+
+We offer
+
+- Possibility of working in an inspiring and international environment with nice, relaxed atmosphere.
+- Opportunity to develop your skills and grow competences in various industry domains, e.g., space, medical, automation, railway, measurement equipment, GNSS, data science, functional safety.
+- Occupational health care, supported dental care, massage at the office, sports activities, and many clubs according to our employees' interests.
+- Lunch benefit and culture- and sports vouchers.
+- For new employees moving to Finland we offer relocation support. We are actively hiring from abroad even during COVID-19 times.
+
+Did you know that according to the World Happiness Report, Finland ranked the happiest nation globally for the fifth consecutive year. It rates 150 nations (146 in 2022) based on personal well-being, levels of GDP, life expectancy, and other quality of life measures.
+
+How to apply
+
+Please apply by sending your CV and motivation letter. We will procedeed with the right candidates immediately, so don't wait!
+
+ 
+
+Meet our SW developers and learn what it is like to work at Huld:
+
+In case you wish you discuss about Huld, role and our way of working, do not hesitate to contact us. We understand that it is important to find a place where you can feel like being part of the family.
+
+WWW-osoite: http://huld.io
+Yhteystiedot: Tatjana Petkovic
+Head of Operations, Embedded Solutions Center of Excellence
++358 50 486 9137
+tatjana.petkovic@huld.io
+Työpaikan osoite: 02150 ESPOO
+Palkkaus: tbd
+Työ alkaa: tbd
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 01.05.2022
+Ilmoitus jätetty: 15.12.2021
+TE-palvelujen ilmoitusnumero: 11111634
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+R&D Engineer 
+
+ Gasmet Technologies is a company providing world-class gas monitoring solutions for industrial, environmental and safety markets. Worldwide, the company's customers include, but are not limited to, power plants, waste incinerators, first responders and universities.
+
+Our mission is to provide solutions that help improve air quality, protect the environment, mitigate climate change and promote occupational safety. In the field of gas analysis, Gasmet has established a global reputation for innovative, customer-driven and reliable solutions, with a heavy emphasis on high levels of technical support.
+
+As an employer Gasmet offers an international and flexible working environment where high-tech meets global real-life challenges. If you can share our mission, and you are a team player but not afraid of individual responsibilities; you're probably the right person to work at Gasmet!
+
+Gasmet, founded in 1990, consists of the parent company and five subsidiaries which are located at strategic locations around the world. The headquarters and factory are located in Vantaa, Finland. In total we have around 120 personnel and in 2019 the revenue of the group was 23 M€. Gasmet operates in more than 80 countries covering all continents.
+
+Gasmet is part of a Nederman's (listed on Nasdaq Stockholm) Monitoring & Control Technology division.
+
+We are now looking for
+
+R&D Engineer
+
+This position is in Gasmet's R&D team. You will deal with diverse technical challenges around developing optical measuring equipment. Refining theories and planning test programs is a big part of your responsibility. Routinely analyzing test data and making logical conclusions helps us reaching our goals in various stages of development. As an R&D engineer, you will constantly encounter, familiarize yourself and contribute to new technical solutions that are part of our technology. In this technical position you will be able to use variety of technical skills and develop new ones. By the result of broad field problem solving, you will take a deep dive that reveals the fascinating technology and methods of gas analysis and its instrumentation. In the process, you will become a specialist of this novel field of science.
+
+At Gasmet's R&D, we get our hands on the prototypes, as we validate our design rounds in our own laboratory. After the development stage, we set up production in our own facility and support the stakeholders processes throughout the lifecycle of the product. At Gasmet's international R&D team, you get to see the results of your work!
+
+Our R&D projects are cross-functional between professionals from fields of optical spectroscopy, physics, chemistry, mechanics, electronics, automation, software and IoT, all with a goal of developing new and better Gasmet products and services. Opportunities for broad scope of responsibility are built into the job, plus we guarantee you will not spend a day with us without learning a new thing or two.
+
+We expect from you
+- Suitable higher degree education in natural sciences or technology, for example M.Sc in physics
+- Great problem solving and logical decision making abilities
+- Capability of completing parallel projects under pressure
+- Self driven attitude
+- Innovative, yet hands on approach
+- Organized working methods
+- Excellent communication and team working skills
+- Positive, optimistic and constructive attitude
+- Fluency in written and spoken English
+
+Don't worry, if you didn't tick all the boxes above! We could just as well find you a perfect candidate if you instead have some of the following:
+- Advanced technical hobbies
+- Electronics or coding experience
+- Optics design experience
+- Measurement equipment experience
+- Track record of projects, innovations or accomplishments of relevance for the position
+- Enthusiasm to become specialist in spectroscopy, gas analysis, or optical measurement technologies
+
+Work experience: Minimum couple of years experience from relevant field of technology
+
+We offer you
+- Role in a friendly, mid-size team where everybody knows each other and locates under the same roof
+- Permanent full-time work in international and inspiring work environment
+- A unique place to work with the best technology in the industry
+- Flexible working hours with dynamic and skilled colleagues in a growing company
+- Modern work environment in Vantaa Piispankylä combined with flexible remote work plan
+
+WWW-osoite: http://www.gasmet.com
+Yhteystiedot: jobs@gasmet.fi
+Työpaikan osoite: Mestarintie 6, 01730 VANTAA
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 25.04.2022
+Jätä hakemus: If you're the person we're looking for, send by latest April 25th 2022 your CV and Application jobs@gasmet.fi. Please add also your salary request in the application.
+Ilmoitus jätetty: 01.04.2022
+TE-palvelujen ilmoitusnumero: 11324375
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new gadgets, machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are a valued team member working with the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks include Embedded software development in the field of Embedded Linux or with lightweight microcontroller -based systems, for example.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role.
+
+To succeed in this role:
+
+You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You have already worked on projects as a designer. You are fluent in written and spoken English.
+
+You have experience in SW development with one, or more, of the following:
+
+- C/C++
+
+- Embedded system architecture design
+
+- Embedded Linux
+
+- RTOS
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+
+- Wired / Wireless technologies
+
+- Device drivers
+
+- Processor architectures, SW/HW Interfaces
+
+- .NET / C#
+
+- Digital signal processing
+
+- General knowledge of electronics, HW Schematics
+
+- Debugging / troubleshooting
+
+- Python, scripting languages
+
+- CI/CD
+
+- DevOps / DevSecOps
+
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, Department Manager, Markku Ala-louko would be happy to tell you more. You can reach him by e-mail, markku.ala-louko@etteplan.com.
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: Department Manager, Markku Ala-louko, markku.ala-louko@etteplan.com.
+Työpaikan osoite: Lauritsalantie 1, 53100 LAPPEENRANTA
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 03.03.2022
+TE-palvelujen ilmoitusnumero: 11261884
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Software Engineer, Windows development 
+
+ Dental professionals have known the DEXIS brand as the leader in digital intraoral radiography and diagnostic software innovation for over 20 years. DEXIS products represent a full portfolio of award-winning imaging and digital solutions including cone-beam computed tomography (CBCT), handheld x-rays, intraoral scanners, sensors, and navigated surgical solutions. With one of the largest installed bases of dental imaging devices in the industry, over 150,000 offices trust DEXIS around the world. Learn more at www.dexis.com.
+
+We are now looking for a
+
+Software Engineer
+
+to strengthen our Windows software development team in Tuusula.
+
+KaVo dental imaging devices combine multiple technologies - mechanics, electronics and software - and thus enable you to gain a profound understanding of the body and soul of an imaging device. All of our research and development activity are in house, gathering together engineering excellence across disciplines. We are one of the Lean pioneers in Finland, and we implement Lean approach in all of our business operations, giving you an opportunity to become an expert within one of the most successful business management systems in the world.
+
+As a Software Engineer you will be responsible for design and implementation of middleware and IoT software of dental imaging devices. You will report to R&D Manager, SW Engineering. Part of your duties is to develop also unit and integration tests related to your code for CI pipeline.
+
+We expect you to:
+
+-hold a technical degree
+-have experience in Windows software development
+-have knowledge about most of the tools in use: C++, Visual Studio, Python, Windows development environments, Linux, Jira, Qt, Golang, CMake, Jenkins
+-have done unit testing and test automation development
+-be familiar with agile development methods like Scrum, Kanban, Feature Driven Development, Continuous Integration, Test Automation
+-be passionate about software development
+-have good written and spoken English language skills and be ready to exercise them on a daily basis in an international organization
+-be eager to learn new technologies and apply them in your daily work.
+
+Additionally, the following will be considered an advantage:
+
+-knowledge of quality and regulatory requirements for medical product development
+-knowledge and interest in Agile and Lean methods and processes.
+
+At the moment we are working both remotely and at the office and that will be our new normal also in the future to provide efficiency and flexibility to our work-life balance.
+
+You can be at the beginning of your career as software developer or have been working already longer as software professional. As a person, you are a strong team player and do not mind working under pressure or with tight timelines. You communicate openly and with ease, both within your team and across functions. You are an innovative character, driven by results and understand the importance of your role in creating first-class products within health technology.
+
+We offer you an exciting position in the world of imaging technology, global business environment and a team of experienced professionals, with whom you will be creating the best dental imaging solutions in the world.
+
+For more information, please contact Mr. Pasi Kinnari, R&D Manager, SW Engineering, by email, pasi.kinnari (at) kavokerr.com.
+
+Please submit your application with a salary expectation and your CV by April 22th, 2022.
+
+WWW-osoite: https://dexis.com/en-eu
+Yhteystiedot: For more information, please contact Mr. Pasi Kinnari, R&D Manager, SW Engineering, by email, pasi.kinnari (at) kavokerr.com
+Työpaikan osoite: Nahkelantie 160, 04300 TUUSULA
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 25.03.2022
+TE-palvelujen ilmoitusnumero: 11308087
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+We are looking for experienced Embedded Software 
+
+ We are looking for experienced Embedded Software Engineers to join our team of SW development professionals, in Tampere or in Hämeenlinna. We have several open positions, in which different initial skill sets are practical, and which all provide you with a chance to learn something new, every day. Your future projects could range e.g. from developing bleeding-edge camera systems for logistics, to high speed satellite communication systems, dynamic sensor networks, audio solutions, or asset tracking and home automation for Android, Linux or Windows based IoT systems.
+
+WWW-osoite: http://www.sasken.fi
+Yhteystiedot: jani.turpeinen@sasken.com
++358503591406
+Työpaikan osoite: Työ useassa osoitteessa tai etätyö
+Palkkaus: Fixed salary
+Työ alkaa: As soon as possible
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022 klo 00:00
+Ilmoitus jätetty: 23.03.2022
+TE-palvelujen ilmoitusnumero: 11304715
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Prosessilaatuinsinöörejä piikiekkovalmistukseen 
+
+ Haemme prosessilaatuinsinöörejä piikiekkovalmistuksen asiantuntijatiimeihin kiekko- ja SOI-kiekkovalmistukseen. Prosessilaatuinsinöörin tehtävässä vastaat oman prosessisi kyvystä tuottaa laadukkaita tuotteita sekä tuotannon prosessihäiriöiden juurisyiden systemaattisesta etsimisestä ja eliminoinnista. Seuraat ja teet toimenpiteitä parantaaksesi tuotannon tuottavuutta sekä saantoa. Pyrit ylläpitämään prosessin vakaata suorituskykyä sekä vähentämään prosessivaihtelua.
+
+Prosessilaatuinsinöörin tyypillisen työpäivän sisältö vaihtelee. Välillä pääset intensiivisesti selvittelemään ongelmia prosessilaitteiden parissa puhdastiloissa, yhteistyössä tuotannon ja kunnossapidon kanssa. Toisinaan analysoit prosessidataa ja teet siihen perustuvaa laadunkehitystyötä. Toimitilamme sijaitsevat hyvien kulkuyhteyksien päässä Vantaan Koivuhaassa, tuotantomme pyörii 24/7 ja toimenkuvan luonteesta johtuen pääosa työstä tehdään paikan päällä.
+
+Mitä toivoisimme sinulta
+
+- Sinulla on soveltuva tekninen koulutus (ins. , DI, FM) esimerkiksi kemian, materiaalitekniikan, prosessitekniikan, automaatiotekniikan tai fysiikan alueelta
+- Olet luonteeltasi oma-aloitteinen ja innokas ongelmanratkaisija
+- Sinulla on hyvät analysointi, organisointi- ja priorisointikyvyt
+- Teet yhteistyötä päivittäin useiden eri sidosryhmien, esimerkiksi tuotannon työntekijöiden, kunnossapidon ja tuotannon suunnittelun kanssa, joten toivomme sinulta erinomaisia yhteistyö- ja vuorovaikutustaitoja sekä joustavuutta
+- Olet kiinnostunut tilastollisista menetelmistä ja pohjaat päätöksesi dataan sekä analyyseihin
+- Arvostamme halua kehittyä ja oppia uutta sekä innostusta teknologiaan
+- Arvostamme myös mahdollista työkokemusta prosessiteollisuudesta tai tutkimuksesta
+
+Perehdytämme sinut tehtävään hyvin ja koulutamme sinulle vähintään Six Sigma Green Belt tasoisen osaamisen. Tehtävässä on eduksi jo aikaisempi osaaminen SPC:stä, JMP:stä tai Minitabista sekä Excelistä. Tarvittaessa myös tilastollisten työkalujen ja laatumenetelmien käyttö on mahdollista kouluttaa.
+
+Ota meihin yhteyttä
+
+Ota meihin yhteyttä ja kerro, mistä sinä innostut työssäsi tai mitä odotat uraltasi? Kerromme mielellämme lisää siitä, missä yrityksemme menee, millaista meillä on työskennellä ja millaisia mahdollisuuksia meillä olisi tarjota sinulle. Lähetä meille CV:si ja hakemuksesi 18.4.2022 mennessä alla olevasta linkistä, aloitamme haastattelut heti sopivien kandidaattien kanssa jo ennen hakuajan päättymistä.
+
+Lisätietoja tehtävästä antavat:
+
+ Prosessilaatupäällikkö kiekonvalmistus Otto Penttilä: otto.penttila(a)okmetic.com, 0405765165
+
+ Process Quality Manager SOI wafer manufacturing Roland van Gerven (in English) roland.vangerven(a)okmetic.com, 0503139058
+
+ Rekrytoinnista Timo Salmi: timo.salmi(a)okmetic.com, 0405742070
+
+Menestyksen resepti
+
+Osaavat, sitoutuneet ja innostuneet ihmiset tekevät meistä ainutlaatuisen. Meillä on lähes 600 ammattilaisen mukava työyhteisö, hyvät mahdollisuudet kouluttautumiseen ja itsensä kehittämiseen. Perusasiat kuten kilpailukykyiset henkilöstöedut, työn ja vapaa-ajan tasapainon tukeminen ja osaamisen kehittäminen ovat meillä kunnossa. Toimitilamme sijaitsevat hyvien kulkuyhteyksien äärellä Kehä III kupeessa, Vantaan Koivuhaassa. Panostamme myös henkilöstön hyvinvointiin: meillä on mm. oma kuntosali ja aktiivista harrastus- ja virkistystoimintaa. Vantaan tehtaamme on savuton työympäristö.
+
+Elektroniset innovaatiot mahdollistetaan piikiekko kerrallaan
+
+Okmetic toimittaa asiakaskohtaisesti räätälöityjä, korkean lisäarvon piikiekkoja antureiden sekä erillispuolijohteiden ja analogiapiirien valmistukseen. Okmeticin asiakkaiden valmistamat tuotteet päätyvät lukuisiin meitä ympäröiviin loppusovelluksiin. Niitä ovat esimerkiksi älypuhelimet, kannettavat laitteet, autoelektroniikka, teollisuuden prosessikontrolloinnin ja lääketieteen sovellukset, Internet of Things (IoT) sekä erilaiset tehonsyötön ja hyötysuhteiden parantamiseen liittyvät ratkaisut.
+
+Maailmanlaajuinen myyntiverkosto, laaja korkean lisäarvon tuotteiden portfolio, kiteenkasvatusosaaminen, pitkäaikaiset tuotekehityshankkeet sekä tehokas ja joustava tuotanto luovat edellytykset kannattavalle kasvulle. Yhtiön pääkonttori sijaitsee Suomessa, missä myös valmistetaan valtaosa yhtiön piikiekoista. Oman valmistuksen lisäksi yhtiöllä on sopimusvalmistusta Aasiassa.
+
+Yhteisöllisyys, osaamisen kehittäminen ja työntekijöiden arvostus ovat meille tärkeitä arvoja. Panostamme merkittävästi työhyvinvointiin ja ihmisläheisen johtamiskulttuurin kehittämiseen.
+
+Okmetic on ollut osa kiinalaista NSIG:tä (National Silicon Industry Group) vuodesta 2016. Vuonna 2020 Okmeticin liikevaihto oli 108 miljoonaa euroa. Yhtiössä työskentelee lähes 600 henkilöä ja yhtiössä on käynnissä yli 100 miljoonan euron kasvu- ja investointiohjelma vuosille 2017-2021, joka tähtää yhtiön korkean lisäarvon tuotteiden tuotantokapasiteetin kasvattamiseen.
+
+www.okmetic.com (http://www.okmetic.com/)
+
+Yhteystiedot: Maria Berglund, maria.berglund@okmetic.com
+Työpaikan osoite: Piitie 2, 01510, Vantaa, 01510 VANTAA
+Palkkaus: Katso kuvaus
+Työ alkaa: Katso kuvaus
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 18.04.2022
+Ilmoitus jätetty: 23.03.2022
+TE-palvelujen ilmoitusnumero: 11303989
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Technical Sales Manager - Digital Security 
+
+ We are looking for a Technical Sales Manager to join our rapidly growing Digital Security & Functional safety sales team.
+
+Huld's Digital Security and Functional Safety consultancy services provide a unique approach for protecting cyber-physical systems in several industry domains, being a thought leader when integrating both Digital Security and Functional Safety.
+ 
+
+As a Technical Sales Manager you will be responsible for business development of our existing customer accounts and new customer acquisition in our Digital Security business area. We expect you to be a Digital Security expert who is willing to develop a career in sales or you have a few years of earlier experience in Digital Security sales. Your role will allow you to closely co-operate with Huld's Digital Security & Functional Safety experts and its sales teams who will support you to succeed.
+
+From our new colleague, we require:
+ 
+
+- A Bachelor or a Master's degree in cyber security or other suitable discipline
+- Fluent spoken and written Finnish and English
+- General level understanding of major areas of Digital Security
+ 
+- Ability to interact independently with our customers regarding their Digital Security challenges and to formulate (technical) proposals to them
+- Hunger and drive to succeed
+
+You will benefit from:
+ 
+
+- Key account management experience
+- Deeper knowledge of some our key technical areas such as embedded systems, IoT, etc.
+
+Why Huld?
+
+Our international, relaxed and friendly working community warmly welcomes you to join us. In addition to extended health cover, we also invest in everyone's personal tools, leisure time and individual development and well-being. In our community, everyone has room to develop and grow to their own goals and influence the working methods of our entire working community.
+
+Where would you like to work? Could it be Espoo, Tampere or perhaps Oulu?
+
+Join us!
+
+Do we sound like a workplace where you see yourself to fit in, to challenge yourself and to grow? Send an application, and we'll be in touch! We would love to get to know you better!
+
+WWW-osoite: http://huld.io
+Yhteystiedot: Tarmo Kellomäki
+Director, Digital Security & Functional Safety
++358445625222
+tarmo.kellomaki@huld.io
+Työpaikan osoite: 02150 ESPOO
+Palkkaus: tbd
+Työ alkaa: tbd
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 21.04.2022
+Ilmoitus jätetty: 23.03.2022
+TE-palvelujen ilmoitusnumero: 11303144
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We are now looking for a Embedded Software Designer to join our team in Oulu!
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are responsible for the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks may include Embedded Linux kernel and userspace development and also Embedded product HW/SW bring-ups.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role!
+
+To succeed in this role, you have already worked on projects as a designer. You have experience in SW development with C/C++, Embedded system architecture design, Embedded Linux, RTOS, .NET/C# or Digital signal processing. You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You are fluent in written and spoken English.
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+- Wired / Wireless technologies
+- Device drivers
+- Processor architectures, SW/HW Interfaces
+- General knowledge of electronics, HW Schematics
+- Debugging / troubleshooting
+- Python, scripting languages
+- CI/CD
+- DevOps / DevSecOps
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, Senior SW Designer Mervi Körkkö would be happy to tell you more. You can reach her by phone (+358444320326) and by e-mail (mervi.korkko@etteplan.com).
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: Senior SW Designer Mervi Körkkö, +358444320326, mervi.korkko@etteplan.com
+Työpaikan osoite: Kiilakiventie 1, 90250 OULU
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 22.03.2022
+TE-palvelujen ilmoitusnumero: 11301094
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We are now looking for a Embedded Software Designer to join our team in Kuopio!
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are responsible for the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks may include Embedded Linux kernel and userspace development and also Embedded product HW/SW bring-ups.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role!
+
+To succeed in this role, you have already worked on projects as a designer. You have experience in SW development with C/C++, Embedded system architecture design, Embedded Linux, RTOS, .NET/C# or Digital signal processing. You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You are fluent in written and spoken English.
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+- Wired / Wireless technologies
+- Device drivers
+- Processor architectures, SW/HW Interfaces
+- General knowledge of electronics, HW Schematics
+- Debugging / troubleshooting
+- Python, scripting languages
+- CI/CD
+- DevOps / DevSecOps
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, SW Team Manager Petri Moisio would be happy to tell you more. You can reach him by phone (+358468513660) and by e-mail (petri.moisio@etteplan.com).
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: SW Team Manager Petri Moisio, +358468513660, petri.moisio@etteplan.com
+Työpaikan osoite: Ajajantie 1, 70780 KUOPIO
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 22.03.2022
+TE-palvelujen ilmoitusnumero: 11301069
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Pääsuunnittelija, elektroniikka 
+
+ Vahvistamme IoT-ratkaisut -suunnittelutiimiämme Tampereella ja haemme yksikköömme elektroniikan pääsuunnittelijaa.
+
+Asiakkainamme on omien alojensa ehdottomia edelläkävijöitä älykkään sähköverkon, sähköajoneuvolatauksen, varastologistiikan ja turvallisuuden aloilla. Haluamme palvella asiakkaitamme entistäkin paremmin ja kasvaa asiakkaidemme tarpeiden mukaan, ja vahvistaa osaamistamme elektroniikan ja sulautettujen järjestelmien suunnittelussa.
+
+Pääsuunnittelijana olet tärkeässä asiantuntijaroolissa asiakkaidemme toimeksiantojen ja projektien suunnittelussa ja toteuttamisessa. Osallistut projektien myyntiin heti tarjousvaiheesta alkaen. Vastaat myös tiimisi kehityksestä: ohjaat ja autat muita suunnittelijoita työssään sekä omalla esimerkilläsi innostat tiimiäsi kehittämään taitojaan ja tietojaan.
+
+Tarjoamme
+
+- Saat olla mukana luomassa tuotekehitystiimiäsi ja porukan yhteishenkeä
+- Saat itse vaikuttaa omiin työtehtäviisi, kehittymiseesi ja siihen miten asiat tehdään
+- Mahdollisuuden hurmata asenteellasi ja osaamisellasi asiakkaitamme
+- Joustavat työajat ja mahdollisuuden tehdä töitä myös etänä
+- Perehdytyksen kokeneilta suunnittelijoiltamme.
+
+Odotamme
+
+- Oma-aloitteisuutta ja kykyä toimia sekä itsenäisesti että tiiminvetäjänä
+- Hyviä kommunikointitaitoja suomeksi ja englanniksi
+- Vähintään viiden (5) vuoden käytännön kokemusta sulautettujen järjestelmien elektroniikkasuunnittelusta
+
+- Näyttöjä onnistuneista elektroniikkaprojekteista. Vahvaa osaamista mikrokontrolleri- ja prosessorijärjestelmien sekä IoT-laitteiden suunnitteluista.
+
+Kiinnostuitko? Jätä hakemuksesi, ansioluettelosi ja palkkatoiveesi 18.4.2022 mennessä rekrytointijärjestelmäämme. Käsittelemme hakemuksia 4.4.2022 alkaen.
+
+Comatec Automation Oy on teollisuusautomaatioon ja IOT-ratkaisuihin erikoistunut yritys. Tarjoamme teollisuusyritysten tuotantoinformaation ja -prosessien hallintaan ratkaisuja, jotka lisäävät työturvallisuutta ja työympäristön viihtyisyyttä. Olemme osa noin 600 asiantuntijaa työllistävää mekaniikka-, sähkö- ja automaatiosuunnittelua sekä asiantuntija- ja projektinhoitopalveluita teknologiateollisuudelle tarjoavaa Comatec Groupia. Toimimme 20 paikkakunnalla Suomessa, Puolassa, Virossa ja Romaniassa. Meillä katse positiivisesti kasvussa ja siksi tarvitsemme jatkuvasti uusia asiantuntijoita.
+
+Lue meistä lisää comatec.fi (www.comatec.fi)
+
+WWW-osoite: http://www.comatec.fi
+Yhteystiedot: Tommi Ojala, tommi.ojala@comatec.fi
+Työpaikan osoite: Kalevantie 7c, 33100, Tampere, 33100 TAMPERE
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 18.04.2022
+Ilmoitus jätetty: 22.03.2022
+TE-palvelujen ilmoitusnumero: 11301388
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We are now looking for a Embedded Software Designer to join our team in Jyväskylä!
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are responsible for the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks may include Embedded Linux kernel and userspace development and also Embedded product HW/SW bring-ups.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role!
+
+To succeed in this role, you have already worked on projects as a designer. You have experience in SW development with C/C++, Embedded system architecture design, Embedded Linux, RTOS, .NET/C# or Digital signal processing. You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You are fluent in written and spoken English.
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+- Wired / Wireless technologies
+- Device drivers
+- Processor architectures, SW/HW Interfaces
+- General knowledge of electronics, HW Schematics
+- Debugging / troubleshooting
+- Python, scripting languages
+- CI/CD
+- DevOps / DevSecOps
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, SW Line Manager Tero Liukko would be happy to tell you more. You can reach him by phone (+358103072583) and by e-mail (tero.liukko@etteplan.com).
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: SW Line Manager Tero Liukko, +358103072583, tero.liukko@etteplan.com
+Työpaikan osoite: Mattilanniemi 6-8, 40100 JYVÄSKYLÄ
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 22.03.2022
+TE-palvelujen ilmoitusnumero: 11301081
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We are now looking for a Embedded Software Designer to join our team in Kajaani!
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are responsible for the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks may include Embedded Linux kernel and userspace development and also Embedded product HW/SW bring-ups.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role!
+
+To succeed in this role, you have already worked on projects as a designer. You have experience in SW development with C/C++, Embedded system architecture design, Embedded Linux, RTOS, .NET/C# or Digital signal processing. You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You are fluent in written and spoken English.
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+- Wired / Wireless technologies
+- Device drivers
+- Processor architectures, SW/HW Interfaces
+- General knowledge of electronics, HW Schematics
+- Debugging / troubleshooting
+- Python, scripting languages
+- CI/CD
+- DevOps / DevSecOps
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, Department Manager Marko Hietala would be happy to tell you more. You can reach him by phone (+358503875137) and by e-mail (marko.hietala@etteplan.com).
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: Department Manager Marko Hietala, +358503875137, marko.hietala@etteplan.com
+Työpaikan osoite: Kehräämöntie 7, 87400 KAJAANI
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 22.03.2022
+TE-palvelujen ilmoitusnumero: 11301110
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Cyber Security Analyst 
+
+ Haussa kokenut ja tiimihenkinen CYBER SECURITY ANALYST
+
+Olet vahvat kommunikointitaidot omaava tiimityöskentelijä, jolla on aito halu oppia uusia asioita. Ydintehtäviisi kuuluu Loihde Trustin offensiivisten tietoturvapalveluiden tuottaminen. Tähän kokonaisuuteen sisältyy penetraatiotestaus (Web/OS/Mobile/IoT), haavoittuvuushallinta (Port Scanners, DAST/SAST+SCA) ja kalastelusimulaatio (Spear phishing, Whaling jne.). Lisäksi tontillasi on Tier3-tehtävät (DFIR) sekä tietoturvatuotteiden ja -teknologioiden arviointi.
+
+Odotamme osaamista seuraavilta osa-alueilta:
+
+- Käyttöjärjestelmät: Linux, Windows, Macos, Ios, Android
+
+- Verkkotason tietoturvakontrollit: NGFW, IDS/IPS-järjestelmät, WAFit, HoneyPotit
+
+- Päätelaitesuojausratkaisut (EDR/EPR, AV)
+
+- Lokianalytiikka/SIEM
+
+- Skriptaus (esim. Bash / Python)
+
+- Web-teknologiat
+
+Toivomme sinulta kokemusta myös jostain näistä:
+
+- Bug bounty ja CTF
+
+- SecDevOps
+
+- Blue team- ja/tai Red team -toiminta
+
+- Eettinen hakkerointi
+
+- Iot
+
+- Docker-teknologia
+
+- Ansible
+
+- Pilvi (AWS, Azure, Google Cloud, SaaS)
+
+Arvostamme myös alan sertifiointeja, esimerkiksi OSCP,CEH.
+
+Työsuhde on kokoaikainen ja vakituinen. Tarjoamme valitulle henkilölle loistavan työporukan tuen ja mahdollisuudet kehittyä monialaisesti. Saat myös käyttöösi monipuoliset liikunta-, kulttuuri- ja hyvinvointiedut vuosittain sekä kattavan työterveyshuollon. Ensisijaisesti toivomme löytävämme tekijän pääkaupunkiseudulle, mutta työpisteeksi voidaan kuitenkin sopia mikä tahansa Loihteen 21 toimipaikasta.
+
+Lisätietoja antaa Team Manager Patrick Hänel, patrick.hanel@loihde.com
+
+Kiinnostuitko? Hae tehtävään oheisen linkin kautta.
+
+Loihde Trust Oy
+
+Loihde Trust Oy suojaa asiakkaan tiedon, ihmiset ja omaisuuden sekä fyysisen että digitaalisen turvan keinoin. Liiketoimintaamme kuuluvat kyberturva- ja tietoverkkopalvelut sekä sähköiset turvajärjestelmät kameravalvonnasta kulunvalvontaan ja lukitukseen. 21 toimipisteen ja yli 380 ammattilaisen voimin Loihde Trust rakentaa yritysten vaativimmatkin turvaratkaisut kaikkialla Suomessa. Asiakkaamme voi luottaa siihen, että me olemme aina paikalla. Ja kun me olemme läsnä, myös turvallisuus on.
+
+WWW-osoite: http://loihdetrust.com
+Yhteystiedot: Lisätietoja antaa Team Manager Patrick Hänel, patrick.hanel@loihde.com
+Työpaikan osoite: Atomitie 5, 00370 Helsinki, 00370 HELSINKI
+Palkkaus: sopimuksen mukaan
+Työ alkaa: sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 31.03.2022 klo 23:59
+Ilmoitus jätetty: 17.03.2022
+TE-palvelujen ilmoitusnumero: 11291800
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Yliopettaja, automaatiotekniikka 
+
+ Kansainvälinen, yrittäjähenkinen SeAMK - paras korkeakoulu opiskelijalle
+
+Seinäjoen ammattikorkeakoulu on monialainen korkeakoulu, jossa opiskelee 5000 opiskelijaa. Henkilöstöä SeAMKissa on lähes 400. Tutkimus-, kehittämis- ja innovaatiotoimintamme (TKI) vahvuusalat ovat digitaalinen valmistus ja teollinen internet, hyvinvointiteknologia, kasvuyrittäjyys ja omistajanvaihdokset, ruokaturvallisuus sekä kestävyys ja kiertotalous. Haemme
+
+Yliopettajaa, automaatiotekniikka
+
+Tehtäväsi on
+
+- Tutkimus- ja kehittämishankkeiden käynnistäminen (sisältäen kansallisen ja kansainvälisen rahoituksen hankkimisen) ja toteuttaminen sekä TKI-toiminnan kehittäminen
+- Maksullinen palvelutoiminta
+- Opetus, opetuksen suunnittelu ja kehittäminen sekä opinnäytetöiden ohjaus
+- Läheinen yhteistyö alueen pk-yritysten kanssa
+- Aktiivinen julkaisutoiminta
+- Työelämän ja korkeakoulukumppanuuksien kehittäminen kotimaassa ja kansainvälisesti
+
+Edellytämme Sinulta
+
+- Osaamista automaatiotekniikan osa-alueista sisältäen esimerkiksi koneautomaation, robotiikan, IoT:n, data-analytiikan, ohjelmoinnin sekä tuotannonohjauksen
+- Tohtorin tai lisensiaatin tutkintoa tekniikan alalta sekä alan työkokemusta
+- Kokemusta ja kiinnostusta AMK- ja YAMK-tasoisiin opetustehtäviin ja opetuksen kehittämiseen
+- Vahvaa näyttöä TKI-toiminnasta ja julkaisuista
+- Näyttöä kansallisesta ja kansainvälisestä hankeosaamisesta ja hankejohtamisesta sekä kansallisesta ja kansainvälisestä hankerahoituksen hankkimisesta
+- Hyviä vuorovaikutus- ja yhteistyötaitoja
+- Vahvoja kansallisia ja kansainvälisiä verkostoja
+- Sujuvaa englannin kielen taitoa sekä kykyä opettaa englanniksi
+- Pedagogista pätevyyttä (tai valmiutta hankkia se kolmen vuoden kuluessa)
+
+Tarjoamme Sinulle
+
+- Joustavan työskentelymahdollisuuden modernissa ja innovatiivisessa asiantuntijatyöyhteisössä
+- Mahdollisuuden vaikuttaa uusien innovaatioiden kehittämiseen ja käyttöönottoon yhteistyössä korkeakouluverkoston ja työelämätahojen kanssa
+- Mahdollisuuden oppia uutta sekä kehittyä kärkiosaajaksi omalla alallasi
+- Erilaiset työsuhde-edut, kuten ePassin
+
+Tehtävän kelpoisuusehdot määräytyvät ammattikorkeakouluista annetun asetuksen (1129/2014) mukaisesti.
+
+Palkkaus ja palvelussuhteen ehdot määräytyvät Sivistan Yksityisen opetusalan työehtosopimuksen mukaisesti ja eläke-edut KuEL:n perusteella. Tehtävän täytössä noudatetaan kuuden kuukauden koeaikaa. Tehtävässä aloitus sopimuksen mukaan. Tehtävä voidaan täyttää mahdollisesti jo hakuaikana. Tehtävä voidaan täyttää myös lehtorin tehtävänä.
+
+Hakemukset sähköisellä lomakkeella 18.4.2022 klo 15.00 mennessä.
+
+Lisätietoja antavat tutkimus- ja kehittämispäällikkö Ari Sivula, puh. 040 830 0360 ja vararehtori Elina Varamäki, puh. 040 830 5189
+
+WWW-osoite: http://www.seamk.fi/
+Yhteystiedot: Ari Sivula ari.sivula@seamk.fi
+Työpaikan osoite: Kampusranta 9 A, 60320 SEINÄJOKI
+Palkkaus: Sivistan Yksityisen opetusalan TES
+Työ alkaa: Tehtävässä aloitus sopimuksen mukaan.
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 18.04.2022 klo 15:00
+Ilmoitus jätetty: 17.03.2022
+TE-palvelujen ilmoitusnumero: 11291036
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Lehtori, tietotekniikka 
+
+ Kansainvälinen, yrittäjähenkinen SeAMK - paras korkeakoulu opiskelijalle
+
+Seinäjoen ammattikorkeakoulu on monialainen korkeakoulu, jossa opiskelee 5000 opiskelijaa ja työskentelee lähes 400 henkilöä. SeAMK on alueen yritysten ja organisaatioiden aktiivinen kehittäjä.
+
+Haemme vakinaiseen työsuhteeseen 1.8.2022 alkaen
+
+Lehtori, tietotekniikka
+
+Pääasiallisena opetusalueena on tietotekniikka painottuen erityisesti nykyaikaiseen ohjelmistotekniikkaan ja tietojärjestelmiin ammattiaineissa sisältäen IoT-järjestelmät, tietoliikenteen ja tietoturvan sekä tutkimus- ja kehittämishankkeisiin liittyvän opettaja-asiantuntijatyön. Työhön kuuluu myös YAMK-tasoisten kurssien opetus sekä julkaisujen kirjoittaminen.
+
+Sinulla on tietotekniikan diplomi-insinöörin tai tietojenkäsittelytieteen maisterin koulutus sekä työkokemusta ainakin yhdestä seuraavista osa-alueista:
+
+- Web-pohjaset tietojärjestelmät
+- Ohjelmistotuotannon menetelmät
+- Tietokannat, tietovarastot ja datatiede
+- Pilvipohjaset tietojärjestelmät
+
+Olet valmis tekemään tutkimus- ja kehittämishankkeita ja opettamaan syventäviä ammattiaineita. Olet valmis omaksumaan uutta ja tuomaan sitä innovatiivisesti uusiin opetussisältöihin.
+
+Katsomme eduksi, jos sinulla on osaamista ja valmiutta opettaa myös yleisiä opetusaineita automaation osa-alueilla. Katsomme eduksi myös ohjelmointiosaamisen ja kyvyn opettaa englannin kielellä.
+
+Edellytämme hakijalta pedagogista pätevyyttä tai valmiutta hankkia se kolmen vuoden kuluessa sekä hyviä vuorovaikutus- ja yhteistyötaitoja.
+
+Tehtävän kelpoisuusehdot määräytyvät ammattikorkeakouluista annetun asetuksen (1129/2014) mukaisesti.
+
+Tehtävän palkkaus ja palvelussuhteen ehdot määräytyvät Sivistan Yksityisen opetusalan työehtosopimuksen mukaisesti ja eläke-edut KuEL:n perusteella. Tehtävän täytössä noudatetaan kuuden kuukauden koeaikaa. Tehtävän sijoituspaikka on Seinäjoki.
+
+Hakemukset sähköisellä lomakkeella 18.4.2022 klo 15.00 mennessä.
+
+Lisätietoja tehtävästä antaa koulutuspäällikkö Jyri Lehto, puh. 040 830 0310.
+
+WWW-osoite: http://www.seamk.fi/
+Yhteystiedot: Jyri Lehto jyri.lehto@seamk.fi
+Työpaikan osoite: Kampusranta 11 F, 60320 SEINÄJOKI
+Palkkaus: Sivistan Yksityisen opetusalan TES
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 18.04.2022 klo 15:00
+Ilmoitus jätetty: 17.03.2022
+TE-palvelujen ilmoitusnumero: 11290906
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Johdon Assistentti 
+
+ Me olemme InSolution - kasvava joukko teollisen ohjelmoinnin, automaation, robotiikan ja tietojärjestelmien asiantuntijoita, jotka syttyvät ongelmien ratkaisemisesta, uuden oppimisesta sekä kättensä jäljen näkemisestä. Arvostamme asiakkaitamme, toisiamme ja työmme vaikuttavuutta.
+
+Maksimoimme asiakkaidemme tuottavuuden automatisoimalla tuotanto- ja dataprosesseja. Asiakkaitamme ovat johtavat koneenrakentajat, valmistava teollisuus, konepajat sekä IoT- ja bioenergia-alan laitevalmistajat. Työssämme yhdistyy fyysinen ja digitaalinen todellisuus - pääsemme näkemään sen, kuinka robotit, automaatiolinjat ja kokonaiset tehtaat tanssivat koodin tahtiin.
+
+Etsimme johdon assistenttia tukemaan yhtiön kasvua ja kehittymistä. Annamme sinulle vastuuta ja mahdollisuuden olla kehittämässä kasvavan teollisuutta palvelevan asiantuntijaorganisaation taloushallinon käytänteitä, markkinointia ja projektointia. Tehtäviisi voi kuulua mm.seuraavia toimintoja: myynti- ja ostoreskontran hallinta, projektien seuranta, palkanlaskennan tukeminen, HR- ja rekrytointiprosesseissa mukana oleminen, yhtiön HR:n kehittäminen, tapahtumien organisointi ja järjestestäminen, sisäinen ja ulkoinen tiedotus. Tarkka toimenkuvasi räätälöidään koulutuksesi, kokemuksesi ja omien kiinnostuksen kohteidesi perusteella.
+
+Odotamme sinulta aikaisempaa näyttöä vastaavista tehtävistä sekä soveltuvaa koulutusta tai tietotaitoa. Koulutustaustaltasi voit olla esim. tradenomi tai sellaiseksi opiskeleva, merkonomi tms.
+
+Meillä InSolutionilla on sellainen asenne, että onnistumiset ovat yhteisiä ja ongelmista puhutaan avoimesti, eikä kaveria jätetä. Lisäksi työntekijöiden vapaa-aikaa arvostetaan.
+
+Haluamme kuulla sinusta lisää!
+
+WWW-osoite: http://insolution.fi
+Yhteystiedot: Juha Katajisto, juha.katajisto@insolution.fi
+Työpaikan osoite: InSolution Ltd, 33200, Tampere, 33200 TAMPERE
+Palkkaus: Katso kuvaus
+Työ alkaa: Katso kuvaus
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 14.03.2022
+TE-palvelujen ilmoitusnumero: 11283628
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin
+Embedded Software Designer 
+
+ The different design office. Yes, that's what we are. When our customers digitize their business or automate their production, they trust us. They will trust you as our application designer to find and implement the best solutions. Whether aiming for safer machines, production efficiency or additional capacity, you are one of the key experts in our projects. Would you be interested in hearing in more detail what kind of world you would enter when becoming our co-worker?
+
+We work alongside our customers to build a new generation of equipment and systems - we modernize and build new gadgets, machines and plants in Finland and around the world. In your work, you are involved in implementing product development projects and/or carrying out delivery projects. Our customers are typically well known international Finnish and global companies in medtech, industry, energy, moving machines and telecom sectors. Their base is very diverse, thus, the operating models and methods in our projects vary. The duration of our projects is often calculated in months - although delivery and product development projects can also be longer.
+
+In your role, you are a valued team member working with the implementation and programming of embedded systems. We have multiple openings in several fields, for example automotive, telecommunications, medical, IoT and industrial R&D projects. Your work tasks include Embedded software development in the field of Embedded Linux or with lightweight microcontroller -based systems, for example.
+
+How does it sound this far? If you are interested in this opportunity, let's look at what skills you will need to succeed in this role.
+
+To succeed in this role:
+
+You hold a degree in electrical engineering, information technology, computer science or similar applicable area. You have already worked on projects as a designer. You are fluent in written and spoken English.
+
+You have experience in SW development with one, or more, of the following:
+
+- C/C++
+- Embedded system architecture design
+- Embedded Linux
+- RTOS
+
+We also appreciate knowledge/experience in one or more of the following topics:
+
+- Microcontrollers
+- Wired / Wireless technologies
+- Device drivers
+- Processor architectures, SW/HW Interfaces
+- .NET / C#
+- Digital signal processing
+- General knowledge of electronics, HW Schematics
+- Debugging / troubleshooting
+- Python, scripting languages
+- CI/CD
+- DevOps / DevSecOps
+- Engineering mathematics
+
+In addition to sufficient experience, you will ensure your success with your proactive, self-guided and systematic approach to work. You know how to find solutions and overcome challenges. You are a team player with a customer-oriented approach and good communication skills. You don't have to be an expert in everything so feel free to ask whenever you need to.
+
+This diverse role and our extremely diverse clients offer you a wide range of opportunities for self-realization and development. It is possible for you to work based on your own strengths as we strive to consider your wishes regarding projects and your work.
+
+What can we offer you?
+
+With us, you step into the crest of the software industry. Perhaps a rather bold statement but that's how we see it. So what kind of elements does your journey with us entail?
+
+Development.
+One of the riches of your work is its variety. Even if you don't constantly switch from one project to another, it's possible for you to see, experience and learn a lot. We work with leading companies in their industries, which will surely take you to the forefront of software development.
+
+Future.
+We are on the path to profitable growth. For you, this means stability, security and the opportunities that our growth brings to your career.
+
+Together.
+While your work can be very independent, you are not alone. You always have someone to ask advice or help from. You can also make an impact in your own role. Your opinions matter and are listened to.
+
+Humanity.
+You will become part of an open and knowledgeable team of experts. Even though we are already a big company, we have not lost our humanity. We work and succeed more and more together.
+
+Above all, you get a chance to feel professional pride in job well done. For us work-life balance is important and we believe taking time to live life will only inspire your work. We offer exercise and culture benefit and we have flexible working hours.
+
+Would you become our co-worker?
+
+You can apply for this position through the application form by 30.4.2022. Please note that we review applications already during the application period.
+
+If you have any questions regarding the position or about working with us, Department Manager, Pasi Pulkkinen, would be happy to tell you more. You can reach him by e-mail, pasi.pulkkinen@etteplan.com, or by phone: +358 408 275 759.
+
+Welcome to Etteplan!
+
+WWW-osoite: http://www.etteplan.com
+Yhteystiedot: Department Manager Pasi Pulkkinen, pasi.pulkkinen@etteplan.com, +358 408 275 759
+Työpaikan osoite: Tekniikantie 4 D, 02150 ESPOO
+Palkkaus: Sopimuksen mukaan
+Työ alkaa: Sopimuksen mukaan
+Työaika: kokoaikatyö
+Työn kesto: yli 12 kuukautta
+Haku päättyy: 30.04.2022
+Ilmoitus jätetty: 11.03.2022
+TE-palvelujen ilmoitusnumero: 11279516
+
+Lähde: TE-palvelujen asiakastietojärjestelmä
+
+.
+
+Hae paikkaa
+Tallenna suosikkeihin

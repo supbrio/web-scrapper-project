@@ -1,0 +1,16 @@
+{
+  "name": "web_scraping_project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scraping information from the internet",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aatu Korhonen",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "puppeteer": "^13.5.1"
+  }
+}
